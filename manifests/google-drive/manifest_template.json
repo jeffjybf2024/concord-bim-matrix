@@ -1,0 +1,18 @@
+{
+  "id": "gdrv-YYYYMMDD-001",
+  "source": {
+    "provider": "google-drive",
+    "path": "/Drive/Path/檔案.ext",
+    "fileId": ""
+  },
+  "workspace": {
+    "incoming": "incoming/google-drive/檔案.ext",
+    "working": "working/google-drive/檔案.ext",
+    "outgoing": "outgoing/google-drive/檔案_v2.ext"
+  },
+  "status": "imported",
+  "created_at": "2026-03-21T00:00:00+08:00",
+  "modified": false,
+  "return_target": "/Drive/Path/檔案.ext",
+  "notes": ""
+}

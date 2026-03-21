@@ -16,3 +16,4 @@
 - 在 Dropbox 工作流上，Jeff 偏好只同步檔案名單 / 索引到本機，不要把 Dropbox 內容全量複製到本機。
 - 未來凡是 Jeff 要求查詢「列表」類資訊時，Joe 應以索引初篩為第一步，必要時再把相關檔案帶進 workspace 從內容補齊，而不是只看檔名就下結論。
 - Jeff 希望每週六收到該週 OpenClaw 費用清單，並維持月累計，以便和實際帳單比對。若自動寄送尚未打通，至少要先整理出週摘要供檢查。
+- Dropbox 的 metadata-first、on-demand import 工作流，也應同樣套用到 Google Drive。

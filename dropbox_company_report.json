@@ -1,0 +1,1290 @@
+{
+  "root": "/公司資料",
+  "folder_count": 1528,
+  "file_count": 14692,
+  "top_level_structure": [
+    {
+      "name": "BIM_專案資料(AI 訓練)",
+      "items": 6283
+    },
+    {
+      "name": "Surface Book 圖片資料",
+      "items": 2271
+    },
+    {
+      "name": "協勤部門管理資料",
+      "items": 2243
+    },
+    {
+      "name": "專案相關資料",
+      "items": 1443
+    },
+    {
+      "name": "偉仁資料",
+      "items": 1037
+    },
+    {
+      "name": "承天雲台",
+      "items": 527
+    },
+    {
+      "name": "專案輸出範本",
+      "items": 451
+    },
+    {
+      "name": "CUBICOST相關",
+      "items": 226
+    },
+    {
+      "name": "DraftSight",
+      "items": 215
+    },
+    {
+      "name": "舊資料檔案",
+      "items": 186
+    },
+    {
+      "name": "業績計算相關",
+      "items": 159
+    },
+    {
+      "name": "報價單",
+      "items": 158
+    },
+    {
+      "name": "大象雲",
+      "items": 93
+    },
+    {
+      "name": "簡報資料整理",
+      "items": 90
+    },
+    {
+      "name": "投標案資料",
+      "items": 70
+    },
+    {
+      "name": "雲台相關",
+      "items": 69
+    },
+    {
+      "name": "c258c308c368_pcl",
+      "items": 68
+    },
+    {
+      "name": "Autodesk 2023-",
+      "items": 67
+    },
+    {
+      "name": "BIM專案管理相關文件_20170803",
+      "items": 66
+    },
+    {
+      "name": "bim專案管理相關文件_20170803",
+      "items": 61
+    },
+    {
+      "name": "系統研發部",
+      "items": 58
+    },
+    {
+      "name": "交通大學研究計畫彙整",
+      "items": 51
+    },
+    {
+      "name": "公司變更相關資料20181029",
+      "items": 38
+    },
+    {
+      "name": "人力招募",
+      "items": 32
+    },
+    {
+      "name": "ADSK",
+      "items": 25
+    },
+    {
+      "name": "工程估價協會",
+      "items": 17
+    },
+    {
+      "name": "BIM專案製作流程改造",
+      "items": 17
+    },
+    {
+      "name": "教育訓練",
+      "items": 12
+    },
+    {
+      "name": "服務建議書",
+      "items": 12
+    },
+    {
+      "name": "憑證資料",
+      "items": 12
+    },
+    {
+      "name": "電子發票",
+      "items": 9
+    },
+    {
+      "name": "Structionsite",
+      "items": 7
+    },
+    {
+      "name": "單據模板",
+      "items": 7
+    },
+    {
+      "name": "競爭廠商資料",
+      "items": 6
+    },
+    {
+      "name": "廠商資料彙整",
+      "items": 6
+    },
+    {
+      "name": "CHC增益集",
+      "items": 6
+    },
+    {
+      "name": "業務人員訓練",
+      "items": 6
+    },
+    {
+      "name": "CAD READER",
+      "items": 5
+    },
+    {
+      "name": "BIM課程相關",
+      "items": 5
+    },
+    {
+      "name": "PCCES標單服務",
+      "items": 4
+    },
+    {
+      "name": "艾伯特",
+      "items": 4
+    },
+    {
+      "name": "用戶軟體版權書",
+      "items": 3
+    },
+    {
+      "name": "專案合約",
+      "items": 3
+    },
+    {
+      "name": "AI生成資料",
+      "items": 3
+    },
+    {
+      "name": "林侯仲",
+      "items": 3
+    },
+    {
+      "name": "Optilic",
+      "items": 3
+    },
+    {
+      "name": "業務部潛在客戶名單",
+      "items": 2
+    },
+    {
+      "name": "鉤逸科技",
+      "items": 2
+    },
+    {
+      "name": "Vtiger 使用相關",
+      "items": 2
+    },
+    {
+      "name": "銀行往來",
+      "items": 2
+    }
+  ],
+  "duplicate_candidates": [
+    {
+      "name": "INSTALLER",
+      "size": 4,
+      "count": 54,
+      "paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/annotated_types-0.7.0.dist-info/INSTALLER",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/async_timeout-5.0.1.dist-info/INSTALLER",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/SQLAlchemy-2.0.35.dist-info/INSTALLER",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/aiosqlite-0.20.0.dist-info/INSTALLER",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/alembic-1.13.3.dist-info/INSTALLER",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/anyio-4.12.1.dist-info/INSTALLER",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/asyncpg-0.29.0.dist-info/INSTALLER",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/certifi-2026.2.25.dist-info/INSTALLER",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/bcrypt-4.0.1.dist-info/INSTALLER",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/cffi-2.0.0.dist-info/INSTALLER"
+      ]
+    },
+    {
+      "name": "__init__.py",
+      "size": 0,
+      "count": 47,
+      "paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/app/routers/__init__.py",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/app/core/__init__.py",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/app/__init__.py",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/tests/__init__.py",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pkg_resources/_vendor/__init__.py",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pip/_internal/operations/__init__.py",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pip/_internal/operations/build/__init__.py",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/_pytest/_py/__init__.py",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/alembic/runtime/__init__.py",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/alembic/testing/plugin/__init__.py"
+      ]
+    },
+    {
+      "name": "py.typed",
+      "size": 0,
+      "count": 46,
+      "paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/_pytest/py.typed",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/aiosqlite/py.typed",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/alembic/py.typed",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/annotated_types/py.typed",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/anyio/py.typed",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/bcrypt/py.typed",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/certifi/py.typed",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/click/py.typed",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/cryptography/py.typed",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/dns/py.typed"
+      ]
+    },
+    {
+      "name": "REQUESTED",
+      "size": 0,
+      "count": 18,
+      "paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/SQLAlchemy-2.0.35.dist-info/REQUESTED",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/aiosqlite-0.20.0.dist-info/REQUESTED",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/alembic-1.13.3.dist-info/REQUESTED",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/asyncpg-0.29.0.dist-info/REQUESTED",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/bcrypt-4.0.1.dist-info/REQUESTED",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/fastapi-0.115.0.dist-info/REQUESTED",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/httpx-0.27.2.dist-info/REQUESTED",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/passlib-1.7.4.dist-info/REQUESTED",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pip-24.0.dist-info/REQUESTED",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pydantic-2.9.2.dist-info/REQUESTED"
+      ]
+    },
+    {
+      "name": "WHEEL",
+      "size": 91,
+      "count": 13,
+      "paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/async_timeout-5.0.1.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/alembic-1.13.3.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/anyio-4.12.1.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/certifi-2026.2.25.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/email_validator-2.3.0.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/h11-0.16.0.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/iniconfig-2.3.0.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/mako-1.3.10.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pluggy-1.6.0.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pyasn1-0.6.3.dist-info/WHEEL"
+      ]
+    },
+    {
+      "name": "WHEEL",
+      "size": 87,
+      "count": 10,
+      "paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/annotated_types-0.7.0.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/dnspython-2.8.0.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/httpcore-1.0.9.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/httpx-0.27.2.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pydantic-2.9.2.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pydantic_settings-2.5.2.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/python_multipart-0.0.12.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/starlette-0.38.6.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/uvicorn-0.30.6.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/anthropic-0.40.0.dist-info/WHEEL"
+      ]
+    },
+    {
+      "name": "印表機A.pc3",
+      "size": 3373,
+      "count": 7,
+      "paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0304/印表機A.pc3",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/印表機A.pc3",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/印表機A.pc3",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/印表機A.pc3",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/印表機A.pc3",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/印表機A.pc3",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/B3/B3/印表機A.pc3"
+      ]
+    },
+    {
+      "name": "WHEEL",
+      "size": 101,
+      "count": 7,
+      "paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/SQLAlchemy-2.0.35.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/cffi-2.0.0.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/greenlet-3.3.2.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/httptools-0.7.1.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/markupsafe-3.0.3.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pyyaml-6.0.3.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/websockets-16.0.dist-info/WHEEL"
+      ]
+    },
+    {
+      "name": "monochrome.ctb",
+      "size": 4261,
+      "count": 6,
+      "paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/monochrome.ctb",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/monochrome.ctb",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/monochrome.ctb",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/monochrome.ctb",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/monochrome.ctb",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/B3/B3/monochrome.ctb"
+      ]
+    },
+    {
+      "name": "__init__.py",
+      "size": 59,
+      "count": 6,
+      "paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pyasn1/codec/__init__.py",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pyasn1/codec/ber/__init__.py",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pyasn1/codec/cer/__init__.py",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pyasn1/codec/der/__init__.py",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pyasn1/codec/native/__init__.py",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pyasn1/type/__init__.py"
+      ]
+    },
+    {
+      "name": "top_level.txt",
+      "size": 7,
+      "count": 6,
+      "paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/bcrypt-4.0.1.dist-info/top_level.txt",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pluggy-1.6.0.dist-info/top_level.txt",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pyasn1-0.6.3.dist-info/top_level.txt",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/python_dotenv-1.2.2.dist-info/top_level.txt",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/~crypt-5.0.0.dist-info/top_level.txt",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/distro-1.9.0.dist-info/top_level.txt"
+      ]
+    },
+    {
+      "name": "信件封面.doc",
+      "size": 44032,
+      "count": 5,
+      "paths": [
+        "/公司資料/偉仁資料/666-Forty4Cafe/絢富/計價資料/信件封面.doc",
+        "/公司資料/偉仁資料/99-詢價區/F-敦泰建設/信件封面.doc",
+        "/公司資料/偉仁資料/99-詢價區/同開_550/信件封面.doc",
+        "/公司資料/偉仁資料/證據/同開_550/信件封面.doc",
+        "/公司資料/偉仁資料/證據/F-敦泰建設/信件封面.doc"
+      ]
+    },
+    {
+      "name": "__init__.cpython-311.pyc",
+      "size": 276,
+      "count": 5,
+      "paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/cryptography/hazmat/bindings/__pycache__/__init__.cpython-311.pyc",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pip/_vendor/chardet/metadata/__pycache__/__init__.cpython-311.pyc",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pip/_vendor/urllib3/packages/__pycache__/__init__.cpython-311.pyc",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pkg_resources/_vendor/jaraco/__pycache__/__init__.cpython-311.pyc",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/uvicorn/protocols/websockets/__pycache__/__init__.cpython-311.pyc"
+      ]
+    },
+    {
+      "name": "__init__.cpython-311.pyc",
+      "size": 266,
+      "count": 5,
+      "paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/httpcore/_backends/__pycache__/__init__.cpython-311.pyc",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pydantic/_internal/__pycache__/__init__.cpython-311.pyc",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/setuptools/_vendor/__pycache__/__init__.cpython-311.pyc",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/uvicorn/middleware/__pycache__/__init__.cpython-311.pyc",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/websockets/asyncio/__pycache__/__init__.cpython-311.pyc"
+      ]
+    },
+    {
+      "name": "__init__.cpython-311.pyc",
+      "size": 263,
+      "count": 5,
+      "paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/alembic/runtime/__pycache__/__init__.cpython-311.pyc",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/anyio/_backends/__pycache__/__init__.cpython-311.pyc",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/asyncpg/pgproto/__pycache__/__init__.cpython-311.pyc",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/fastapi/openapi/__pycache__/__init__.cpython-311.pyc",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/websockets/sync/__pycache__/__init__.cpython-311.pyc"
+      ]
+    },
+    {
+      "name": "WHEEL",
+      "size": 92,
+      "count": 5,
+      "paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pip-24.0.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pycparser-3.0.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/setuptools-65.5.0.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/sniffio-1.3.1.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/distro-1.9.0.dist-info/WHEEL"
+      ]
+    },
+    {
+      "name": "top_level.txt",
+      "size": 8,
+      "count": 5,
+      "paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/alembic-1.13.3.dist-info/top_level.txt",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/asyncpg-0.29.0.dist-info/top_level.txt",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/certifi-2026.2.25.dist-info/top_level.txt",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/passlib-1.7.4.dist-info/top_level.txt",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/sniffio-1.3.1.dist-info/top_level.txt"
+      ]
+    },
+    {
+      "name": "ZJ687-ARC1-1F.dwg",
+      "size": 545719,
+      "count": 4,
+      "paths": [
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/2.電力20211130/ZJ687-ARC1-1F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/4.給水20211126/ZJ687-ARC1-1F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/5.排水20211126/ZJ687-ARC1-1F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/6.弱電20211130/ZJ687-ARC1-1F.dwg"
+      ]
+    },
+    {
+      "name": "ZJ687-ARC1-9F.dwg",
+      "size": 399832,
+      "count": 4,
+      "paths": [
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/2.電力20211130/ZJ687-ARC1-9F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/4.給水20211126/ZJ687-ARC1-9F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/5.排水20211126/ZJ687-ARC1-9F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/6.弱電20211130/ZJ687-ARC1-9F.dwg"
+      ]
+    },
+    {
+      "name": "ZJ687-ARC1-10F.dwg",
+      "size": 362123,
+      "count": 4,
+      "paths": [
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/2.電力20211130/ZJ687-ARC1-10F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/4.給水20211126/ZJ687-ARC1-10F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/5.排水20211126/ZJ687-ARC1-10F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/6.弱電20211130/ZJ687-ARC1-10F.dwg"
+      ]
+    },
+    {
+      "name": "ZJ687-ARC1-3F.dwg",
+      "size": 350076,
+      "count": 4,
+      "paths": [
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/2.電力20211130/ZJ687-ARC1-3F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/4.給水20211126/ZJ687-ARC1-3F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/5.排水20211126/ZJ687-ARC1-3F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/6.弱電20211130/ZJ687-ARC1-3F.dwg"
+      ]
+    },
+    {
+      "name": "TSMC-2025協勤1月份加班單.pdf",
+      "size": 337881,
+      "count": 4,
+      "paths": [
+        "/公司資料/專案相關資料/台積電人力外派/202408-202412薪資申請/TSMC 11308-11312薪資請款明細表/TSMC-2025協勤1月份加班單.pdf",
+        "/公司資料/專案相關資料/台積電人力外派/202501-202508薪資申請/TSMC-2025協勤1月份加班單.pdf",
+        "/公司資料/專案相關資料/台積電人力外派/202412-202510薪資申請/TSMC-2025協勤1月份加班單.pdf",
+        "/公司資料/專案相關資料/台積電人力外派/20251-10薪資申請附件/TSMC-2025協勤1月份加班單.pdf"
+      ]
+    },
+    {
+      "name": "ZJ687-ARC1-5F.dwg",
+      "size": 335541,
+      "count": 4,
+      "paths": [
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/2.電力20211130/ZJ687-ARC1-5F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/4.給水20211126/ZJ687-ARC1-5F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/5.排水20211126/ZJ687-ARC1-5F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/6.弱電20211130/ZJ687-ARC1-5F.dwg"
+      ]
+    },
+    {
+      "name": "ZJ687-ARC1-2F.dwg",
+      "size": 321623,
+      "count": 4,
+      "paths": [
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/2.電力20211130/ZJ687-ARC1-2F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/4.給水20211126/ZJ687-ARC1-2F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/5.排水20211126/ZJ687-ARC1-2F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/6.弱電20211130/ZJ687-ARC1-2F.dwg"
+      ]
+    },
+    {
+      "name": "ZJ687-ARC1-7F.dwg",
+      "size": 321385,
+      "count": 4,
+      "paths": [
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/2.電力20211130/ZJ687-ARC1-7F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/4.給水20211126/ZJ687-ARC1-7F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/5.排水20211126/ZJ687-ARC1-7F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/6.弱電20211130/ZJ687-ARC1-7F.dwg"
+      ]
+    },
+    {
+      "name": "BIM專業服務報價表240801.xls",
+      "size": 299008,
+      "count": 4,
+      "paths": [
+        "/公司資料/偉仁資料/99-詢價區/宇峰工程/BIM專業服務報價表240801.xls",
+        "/公司資料/偉仁資料/99-詢價區/F-式新工程_協勤派駐人力殉富收費/新竹海水淡化廠/BIM專業服務報價表240801.xls",
+        "/公司資料/偉仁資料/證據/F-式新工程_協勤派駐人力殉富收費/新竹海水淡化廠/BIM專業服務報價表240801.xls",
+        "/公司資料/偉仁資料/證據/宇峰工程/BIM專業服務報價表240801.xls"
+      ]
+    },
+    {
+      "name": "ZJ687-ARC1-B2F.dwg",
+      "size": 222888,
+      "count": 4,
+      "paths": [
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/2.電力20211130/ZJ687-ARC1-B2F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/4.給水20211126/ZJ687-ARC1-B2F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/5.排水20211126/ZJ687-ARC1-B2F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/6.弱電20211130/ZJ687-ARC1-B2F.dwg"
+      ]
+    },
+    {
+      "name": "ZJ687-ARC1-8F.dwg",
+      "size": 205584,
+      "count": 4,
+      "paths": [
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/2.電力20211130/ZJ687-ARC1-8F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/4.給水20211126/ZJ687-ARC1-8F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/5.排水20211126/ZJ687-ARC1-8F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/6.弱電20211130/ZJ687-ARC1-8F.dwg"
+      ]
+    },
+    {
+      "name": "ZJ687-ARC1-BASS.dwg",
+      "size": 205110,
+      "count": 4,
+      "paths": [
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/2.電力20211130/ZJ687-ARC1-BASS.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/4.給水20211126/ZJ687-ARC1-BASS.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/5.排水20211126/ZJ687-ARC1-BASS.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/6.弱電20211130/ZJ687-ARC1-BASS.dwg"
+      ]
+    },
+    {
+      "name": "ZJ687-ARC1-6F.dwg",
+      "size": 200213,
+      "count": 4,
+      "paths": [
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/2.電力20211130/ZJ687-ARC1-6F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/4.給水20211126/ZJ687-ARC1-6F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/5.排水20211126/ZJ687-ARC1-6F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/6.弱電20211130/ZJ687-ARC1-6F.dwg"
+      ]
+    },
+    {
+      "name": "ZJ687-ARC1-4F.dwg",
+      "size": 199647,
+      "count": 4,
+      "paths": [
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/2.電力20211130/ZJ687-ARC1-4F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/4.給水20211126/ZJ687-ARC1-4F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/5.排水20211126/ZJ687-ARC1-4F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/6.弱電20211130/ZJ687-ARC1-4F.dwg"
+      ]
+    },
+    {
+      "name": "ZJ687-ARC1-R1F.dwg",
+      "size": 178930,
+      "count": 4,
+      "paths": [
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/2.電力20211130/ZJ687-ARC1-R1F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/4.給水20211126/ZJ687-ARC1-R1F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/5.排水20211126/ZJ687-ARC1-R1F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/6.弱電20211130/ZJ687-ARC1-R1F.dwg"
+      ]
+    },
+    {
+      "name": "公共工程評分.jpg",
+      "size": 175793,
+      "count": 4,
+      "paths": [
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/公司簡介/公共工程評分.jpg",
+        "/公司資料/投標案資料/公共工程評分.jpg",
+        "/公司資料/投標案資料/獲獎紀錄/公共工程評分.jpg",
+        "/公司資料/Surface Book 圖片資料/公共工程評分.jpg"
+      ]
+    },
+    {
+      "name": "ZJ687-ARC1-R2F.dwg",
+      "size": 167627,
+      "count": 4,
+      "paths": [
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/2.電力20211130/ZJ687-ARC1-R2F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/4.給水20211126/ZJ687-ARC1-R2F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/5.排水20211126/ZJ687-ARC1-R2F.dwg",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/6.弱電20211130/ZJ687-ARC1-R2F.dwg"
+      ]
+    },
+    {
+      "name": "住都局推薦函.jpg",
+      "size": 164541,
+      "count": 4,
+      "paths": [
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/公司簡介/住都局推薦函.jpg",
+        "/公司資料/投標案資料/住都局推薦函.jpg",
+        "/公司資料/投標案資料/獲獎紀錄/住都局推薦函.jpg",
+        "/公司資料/Surface Book 圖片資料/住都局推薦函.jpg"
+      ]
+    },
+    {
+      "name": "公共工程評分-1.jpg",
+      "size": 154045,
+      "count": 4,
+      "paths": [
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/公司簡介/公共工程評分-1.jpg",
+        "/公司資料/投標案資料/公共工程評分-1.jpg",
+        "/公司資料/投標案資料/獲獎紀錄/公共工程評分-1.jpg",
+        "/公司資料/Surface Book 圖片資料/公共工程評分-1.jpg"
+      ]
+    },
+    {
+      "name": "Xref-b1.dwg",
+      "size": 93899,
+      "count": 4,
+      "paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0316/S2021B04-皇昌三崍國光段-B4案-小林/Xref/Xref-b1.dwg",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/YY-3-16皇昌三峽國光段B1及B4案/S2021B04-皇昌三崍國光段-B4案-小林/Xref/Xref-b1.dwg",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/YY-3-16皇昌三峽國光段B1及B4案/S2021B04-皇昌三崍國光段-B4案-小林/Xref/Xref-b1.dwg",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/S2021B04-皇昌三崍國光段-B4案-小林/S2021B04-皇昌三崍國光段-B4案-小林/Xref/Xref-b1.dwg"
+      ]
+    },
+    {
+      "name": "Xref-b2.dwg",
+      "size": 89737,
+      "count": 4,
+      "paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0316/S2021B04-皇昌三崍國光段-B4案-小林/Xref/Xref-b2.dwg",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/YY-3-16皇昌三峽國光段B1及B4案/S2021B04-皇昌三崍國光段-B4案-小林/Xref/Xref-b2.dwg",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/YY-3-16皇昌三峽國光段B1及B4案/S2021B04-皇昌三崍國光段-B4案-小林/Xref/Xref-b2.dwg",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/S2021B04-皇昌三崍國光段-B4案-小林/S2021B04-皇昌三崍國光段-B4案-小林/Xref/Xref-b2.dwg"
+      ]
+    },
+    {
+      "name": "Xref-out.dwg",
+      "size": 86598,
+      "count": 4,
+      "paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0316/S2021B04-皇昌三崍國光段-B4案-小林/Xref/Xref-out.dwg",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/YY-3-16皇昌三峽國光段B1及B4案/S2021B04-皇昌三崍國光段-B4案-小林/Xref/Xref-out.dwg",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/YY-3-16皇昌三峽國光段B1及B4案/S2021B04-皇昌三崍國光段-B4案-小林/Xref/Xref-out.dwg",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/S2021B04-皇昌三崍國光段-B4案-小林/S2021B04-皇昌三崍國光段-B4案-小林/Xref/Xref-out.dwg"
+      ]
+    },
+    {
+      "name": "Xref-b3.dwg",
+      "size": 85802,
+      "count": 4,
+      "paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0316/S2021B04-皇昌三崍國光段-B4案-小林/Xref/Xref-b3.dwg",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/YY-3-16皇昌三峽國光段B1及B4案/S2021B04-皇昌三崍國光段-B4案-小林/Xref/Xref-b3.dwg",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/YY-3-16皇昌三峽國光段B1及B4案/S2021B04-皇昌三崍國光段-B4案-小林/Xref/Xref-b3.dwg",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/S2021B04-皇昌三崍國光段-B4案-小林/S2021B04-皇昌三崍國光段-B4案-小林/Xref/Xref-b3.dwg"
+      ]
+    },
+    {
+      "name": "皇昌圖框B4.dwg",
+      "size": 84697,
+      "count": 4,
+      "paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0316/S2021B04-皇昌三崍國光段-B4案-小林/Xref/皇昌圖框B4.dwg",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/YY-3-16皇昌三峽國光段B1及B4案/S2021B04-皇昌三崍國光段-B4案-小林/Xref/皇昌圖框B4.dwg",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/YY-3-16皇昌三峽國光段B1及B4案/S2021B04-皇昌三崍國光段-B4案-小林/Xref/皇昌圖框B4.dwg",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/S2021B04-皇昌三崍國光段-B4案-小林/S2021B04-皇昌三崍國光段-B4案-小林/Xref/皇昌圖框B4.dwg"
+      ]
+    },
+    {
+      "name": "Xref-中間柱.dwg",
+      "size": 71674,
+      "count": 4,
+      "paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0316/S2021B04-皇昌三崍國光段-B4案-小林/Xref/Xref-中間柱.dwg",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/YY-3-16皇昌三峽國光段B1及B4案/S2021B04-皇昌三崍國光段-B4案-小林/Xref/Xref-中間柱.dwg",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/YY-3-16皇昌三峽國光段B1及B4案/S2021B04-皇昌三崍國光段-B4案-小林/Xref/Xref-中間柱.dwg",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/S2021B04-皇昌三崍國光段-B4案-小林/S2021B04-皇昌三崍國光段-B4案-小林/Xref/Xref-中間柱.dwg"
+      ]
+    },
+    {
+      "name": "Xref-雙圍令單支撐圖.dwg",
+      "size": 51483,
+      "count": 4,
+      "paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0316/S2021B04-皇昌三崍國光段-B4案-小林/Xref/Xref-雙圍令單支撐圖.dwg",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/YY-3-16皇昌三峽國光段B1及B4案/S2021B04-皇昌三崍國光段-B4案-小林/Xref/Xref-雙圍令單支撐圖.dwg",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/YY-3-16皇昌三峽國光段B1及B4案/S2021B04-皇昌三崍國光段-B4案-小林/Xref/Xref-雙圍令單支撐圖.dwg",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/S2021B04-皇昌三崍國光段-B4案-小林/S2021B04-皇昌三崍國光段-B4案-小林/Xref/Xref-雙圍令單支撐圖.dwg"
+      ]
+    },
+    {
+      "name": "Xref-支撐圖.dwg",
+      "size": 51295,
+      "count": 4,
+      "paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0316/S2021B04-皇昌三崍國光段-B4案-小林/Xref/Xref-支撐圖.dwg",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/YY-3-16皇昌三峽國光段B1及B4案/S2021B04-皇昌三崍國光段-B4案-小林/Xref/Xref-支撐圖.dwg",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/YY-3-16皇昌三峽國光段B1及B4案/S2021B04-皇昌三崍國光段-B4案-小林/Xref/Xref-支撐圖.dwg",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/S2021B04-皇昌三崍國光段-B4案-小林/S2021B04-皇昌三崍國光段-B4案-小林/Xref/Xref-支撐圖.dwg"
+      ]
+    },
+    {
+      "name": "table1.dwg",
+      "size": 43789,
+      "count": 4,
+      "paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0316/S2021B04-皇昌三崍國光段-B4案-小林/Xref/table1.dwg",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/YY-3-16皇昌三峽國光段B1及B4案/S2021B03-皇昌三峽國光段-B1案-小林/Xref/table1.dwg",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/YY-3-16皇昌三峽國光段B1及B4案/S2021B03-皇昌三峽國光段-B1案-小林/Xref/table1.dwg",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/YY-110-4-6皇昌三峽國光段B1/YY-110-4-6皇昌三峽國光段B1/Xref/table1.dwg"
+      ]
+    },
+    {
+      "name": "__init__.cpython-311.pyc",
+      "size": 267,
+      "count": 4,
+      "paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pip/_internal/utils/__pycache__/__init__.cpython-311.pyc",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pyasn1/codec/native/__pycache__/__init__.cpython-311.pyc",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pydantic/deprecated/__pycache__/__init__.cpython-311.pyc",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/sqlalchemy/ext/mypy/__pycache__/__init__.cpython-311.pyc"
+      ]
+    },
+    {
+      "name": "__init__.cpython-311.pyc",
+      "size": 264,
+      "count": 4,
+      "paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pyasn1/codec/ber/__pycache__/__init__.cpython-311.pyc",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pyasn1/codec/cer/__pycache__/__init__.cpython-311.pyc",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pyasn1/codec/der/__pycache__/__init__.cpython-311.pyc",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/uvicorn/lifespan/__pycache__/__init__.cpython-311.pyc"
+      ]
+    },
+    {
+      "name": "__init__.cpython-311.pyc",
+      "size": 259,
+      "count": 4,
+      "paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/_pytest/_py/__pycache__/__init__.cpython-311.pyc",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/anyio/_core/__pycache__/__init__.cpython-311.pyc",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/passlib/ext/__pycache__/__init__.cpython-311.pyc",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pyasn1/type/__pycache__/__init__.cpython-311.pyc"
+      ]
+    },
+    {
+      "name": "__init__.py",
+      "size": 180,
+      "count": 4,
+      "paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/cryptography/hazmat/bindings/__init__.py",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/cryptography/hazmat/bindings/openssl/__init__.py",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/cryptography/hazmat/primitives/__init__.py",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/cryptography/hazmat/primitives/asymmetric/__init__.py"
+      ]
+    },
+    {
+      "name": "WHEEL",
+      "size": 82,
+      "count": 4,
+      "paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/click-8.3.1.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/idna-3.11.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/packaging-26.0.dist-info/WHEEL",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/typing_extensions-4.15.0.dist-info/WHEEL"
+      ]
+    }
+  ],
+  "messy_folder_names": [
+    {
+      "path": "/公司資料/雲台相關/TSMC/TSMC雲物管專案進度表_20140328",
+      "name": "TSMC雲物管專案進度表_20140328",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/BIM專案管理相關文件_20170803",
+      "name": "BIM專案管理相關文件_20170803",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/bim專案管理相關文件_20170803/專案標準/建置規範(Jeff)/BIM_Guide_and_Project_Brief",
+      "name": "BIM_Guide_and_Project_Brief",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/bim專案管理相關文件_20170803/專案標準/建置規範(Jeff)/BIM_Planning_Guide_for_Facility_Owners-Version_2.0",
+      "name": "BIM_Planning_Guide_for_Facility_Owners-Version_2.0",
+      "reasons": [
+        "name too long",
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/bim專案管理相關文件_20170803/專案標準/建置規範(jeff)/bim_planning_guide_for_facility_owners-version_2.0/Templates/A_BIM Maturity Profile",
+      "name": "A_BIM Maturity Profile",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/bim專案管理相關文件_20170803/專案標準/建置規範(jeff)/bim_planning_guide_for_facility_owners-version_2.0/Templates/C_Organizational Execution Plan",
+      "name": "C_Organizational Execution Plan",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/bim專案管理相關文件_20170803/專案標準/建置規範(jeff)/bim_planning_guide_for_facility_owners-version_2.0/Templates/D_Business Case Template",
+      "name": "D_Business Case Template",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/bim專案管理相關文件_20170803/專案標準/建置規範(jeff)/bim_planning_guide_for_facility_owners-version_2.0/Templates/E_Project Procurment Documents",
+      "name": "E_Project Procurment Documents",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/舊資料檔案/t3 ict 備標/詢價/17C3233A -桃園機場T3 ICT工程-SX3A.03-BIM",
+      "name": "17C3233A -桃園機場T3 ICT工程-SX3A.03-BIM",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/舊資料檔案/t3 ict 備標/詢價/17C3233A -桃園機場T3 ICT工程-SX3A.03-BIM/17C3233A -SX3A.03-BIM",
+      "name": "17C3233A -SX3A.03-BIM",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/舊資料檔案/t3 ict 備標/詢價/【報價中】臺灣桃園國際機場第三航站區資訊通訊系統工程",
+      "name": "【報價中】臺灣桃園國際機場第三航站區資訊通訊系統工程",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/承天雲台/t3 tp8規範/第二次/31_BIM_0325/01_Deliverable list_成果交付清單",
+      "name": "01_Deliverable list_成果交付清單",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/承天雲台/t3 tp8規範/第二次/31_BIM_0325/04_Quantity Calculation_數量計算",
+      "name": "04_Quantity Calculation_數量計算",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/承天雲台/t3 tp8規範/第二次/31_BIM_0325/03_Self-Checklist_自主檢核表",
+      "name": "03_Self-Checklist_自主檢核表",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/計價資料-連建華/南港高中/預算/1090505-南港/0504_臺北市立南港高級中學綜合教學大樓新建工程",
+      "name": "0504_臺北市立南港高級中學綜合教學大樓新建工程",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/計價資料-連建華/南港高中/預算/1100125-南港/1091125-簽-110年度預算編製要點-附件",
+      "name": "1091125-簽-110年度預算編製要點-附件",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/計價資料-連建華/南港高中/預算/1100125-南港/1100413/(預算書)1100324_ap_bdgt",
+      "name": "(預算書)1100324_ap_bdgt",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/計價資料-連建華/南港高中/預算/臺北市立南港高級中學綜合教學大樓110-04-30正確率",
+      "name": "臺北市立南港高級中學綜合教學大樓110-04-30正確率",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/放棄個案/放棄-盲人重建院四期/結構施工圖/梁筋配置及柱筋配置由PDF轉CAD檔(此為線條檔)",
+      "name": "梁筋配置及柱筋配置由PDF轉CAD檔(此為線條檔)",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/協勤部門管理資料/06 BIM算量及雲端事業部/2018年_BIM算量與雲端事業部_專案執行報告(未含獎金)",
+      "name": "2018年_BIM算量與雲端事業部_專案執行報告(未含獎金)",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/c258c308c368_pcl/C258C308C368_PCL/Winx64_T11200/IT5PCL6Winx64_11200ZH-TW",
+      "name": "IT5PCL6Winx64_11200ZH-TW",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/c258c308c368_pcl/C258C308C368_PCL/Winx86_T11200/IT5PCL6Winx86_11200ZH-TW",
+      "name": "IT5PCL6Winx86_11200ZH-TW",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/專案相關資料/未得標項目/大聯大BIM平台及專管招標-20200915T052553Z-001",
+      "name": "大聯大BIM平台及專管招標-20200915T052553Z-001",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/放棄個案/放棄-聯地工程_屏東縣熱帶農業特色產業園區開發、租售及管理案_BIM_建置詢價",
+      "name": "放棄-聯地工程_屏東縣熱帶農業特色產業園區開發、租售及管理案_BIM_建置詢價",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/未得標/未得標-新北市-皇昌捷運萬大線860標",
+      "name": "未得標-新北市-皇昌捷運萬大線860標",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/未得標/未得標-新竹憶卿醫院/0000000",
+      "name": "0000000",
+      "reasons": [
+        "repetitive characters"
+      ]
+    },
+    {
+      "path": "/公司資料/DraftSight/政府採購契約相關/23036120-202306071520",
+      "name": "23036120-202306071520",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/Autodesk 2023-/Reformatted_FY24_GCR_ASP_Program_Guide-GPT V1",
+      "name": "Reformatted_FY24_GCR_ASP_Program_Guide-GPT V1",
+      "reasons": [
+        "name too long",
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/DraftSight/合約相關/Taiwan- Vendor Registration Qualification Pack",
+      "name": "Taiwan- Vendor Registration Qualification Pack",
+      "reasons": [
+        "name too long",
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/專案相關資料/台積電人力外派/SCAN TO BIM(TO TSMC)",
+      "name": "SCAN TO BIM(TO TSMC)",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/專案相關資料/台積電人力外派/SCAN TO BIM(TO TSMC)/SCAN TO BIM(TO TSMC)",
+      "name": "SCAN TO BIM(TO TSMC)",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/BIM_專案資料(AI 訓練)/皇昌營造_廣慈博愛院/第二階段(建築,結構,機電,景觀)細部設計報告書及圖冊核定版)",
+      "name": "第二階段(建築,結構,機電,景觀)細部設計報告書及圖冊核定版)",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/BIM_專案資料(AI 訓練)/皇昌營造_廣慈博愛院/執行計劃書/1-4. 1061110工作執行計畫書(第二版)",
+      "name": "1-4. 1061110工作執行計畫書(第二版)",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/BIM_專案資料(AI 訓練)/皇昌營造_廣慈博愛院/執行計劃書/1-5. 1060723廣慈環評定稿資料",
+      "name": "1-5. 1060723廣慈環評定稿資料",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/BIM_專案資料(AI 訓練)/皇昌營造_廣慈博愛院/第二階段(建築,結構,機電,景觀)細部設計報告書及圖冊核定版)/細部設計圖冊2-1、建築圖(核定版)(第二冊)",
+      "name": "細部設計圖冊2-1、建築圖(核定版)(第二冊)",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/交通大學研究計畫彙整/100年~104年_科技部產學合作-計畫書",
+      "name": "100年~104年_科技部產學合作-計畫書",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/專案相關資料/台積電人力外派/202408-202412薪資申請/TSMC 11308-11312薪資請款明細表",
+      "name": "TSMC 11308-11312薪資請款明細表",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/偉仁資料/OneDrive_20250912_files",
+      "name": "OneDrive_20250912_files",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/偉仁資料/99-詢價區/F-立源營造/路易莎新北產業園區廠辦大樓新建工程-BIM應用技術服務報價",
+      "name": "路易莎新北產業園區廠辦大樓新建工程-BIM應用技術服務報價",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/偉仁資料/99-詢價區/皇昌營造/臺北捷運環狀-士林~三重線(北環社子段)",
+      "name": "臺北捷運環狀-士林~三重線(北環社子段)",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/偉仁資料/99-詢價區/F-石朝永/CTC",
+      "name": "CTC",
+      "reasons": [
+        "repetitive characters"
+      ]
+    },
+    {
+      "path": "/公司資料/偉仁資料/證據/F-石朝永/CTC",
+      "name": "CTC",
+      "reasons": [
+        "repetitive characters"
+      ]
+    },
+    {
+      "path": "/公司資料/偉仁資料/證據/F-立源營造/路易莎新北產業園區廠辦大樓新建工程-BIM應用技術服務報價",
+      "name": "路易莎新北產業園區廠辦大樓新建工程-BIM應用技術服務報價",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/ODOO",
+      "name": "ODOO",
+      "reasons": [
+        "repetitive characters"
+      ]
+    },
+    {
+      "path": "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0316/S2021B04-皇昌三崍國光段-B4案-小林",
+      "name": "S2021B04-皇昌三崍國光段-B4案-小林",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06",
+      "name": "S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04",
+      "name": "S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/YY-3-16皇昌三峽國光段B1及B4案",
+      "name": "YY-3-16皇昌三峽國光段B1及B4案",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/皇昌三峽國光段B2 - STANDARD_4",
+      "name": "皇昌三峽國光段B2 - STANDARD_4",
+      "reasons": [
+        "complex punctuation"
+      ]
+    },
+    {
+      "path": "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/YY-3-16皇昌三峽國光段B1及B4案/S2021B03-皇昌三峽國光段-B1案-小林",
+      "name": "S2021B03-皇昌三峽國光段-B1案-小林",
+      "reasons": [
+        "complex punctuation"
+      ]
+    }
+  ],
+  "largest_folders": [
+    {
+      "path": "/公司資料",
+      "size_bytes": 98729831266,
+      "size_gb": 91.95,
+      "files": 14692
+    },
+    {
+      "path": "/公司資料/專案相關資料",
+      "size_bytes": 32187307086,
+      "size_gb": 29.98,
+      "files": 1343
+    },
+    {
+      "path": "/公司資料/專案相關資料/未得標項目",
+      "size_bytes": 18406612572,
+      "size_gb": 17.14,
+      "files": 173
+    },
+    {
+      "path": "/公司資料/專案相關資料/未得標項目/長庚桃園院區FM",
+      "size_bytes": 13434543366,
+      "size_gb": 12.51,
+      "files": 26
+    },
+    {
+      "path": "/公司資料/承天雲台",
+      "size_bytes": 10122745643,
+      "size_gb": 9.43,
+      "files": 497
+    },
+    {
+      "path": "/公司資料/承天雲台/業務專案相關",
+      "size_bytes": 7882150260,
+      "size_gb": 7.34,
+      "files": 9
+    },
+    {
+      "path": "/公司資料/承天雲台/業務專案相關/110長庚專案",
+      "size_bytes": 7881794122,
+      "size_gb": 7.34,
+      "files": 6
+    },
+    {
+      "path": "/公司資料/CUBICOST相關",
+      "size_bytes": 7473350629,
+      "size_gb": 6.96,
+      "files": 210
+    },
+    {
+      "path": "/公司資料/簡報資料整理",
+      "size_bytes": 7147995490,
+      "size_gb": 6.66,
+      "files": 79
+    },
+    {
+      "path": "/公司資料/BIM_專案資料(AI 訓練)",
+      "size_bytes": 6881748034,
+      "size_gb": 6.41,
+      "files": 5577
+    },
+    {
+      "path": "/公司資料/協勤部門管理資料",
+      "size_bytes": 6726901911,
+      "size_gb": 6.26,
+      "files": 1990
+    },
+    {
+      "path": "/公司資料/BIM_專案資料(AI 訓練)/皇昌營造_廣慈博愛院",
+      "size_bytes": 6415859202,
+      "size_gb": 5.98,
+      "files": 38
+    },
+    {
+      "path": "/公司資料/協勤部門管理資料/離職員工交接資料",
+      "size_bytes": 6305754977,
+      "size_gb": 5.87,
+      "files": 1622
+    },
+    {
+      "path": "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料",
+      "size_bytes": 6268821579,
+      "size_gb": 5.84,
+      "files": 1618
+    },
+    {
+      "path": "/公司資料/BIM_專案資料(AI 訓練)/皇昌營造_廣慈博愛院/第二階段(建築,結構,機電,景觀)細部設計報告書及圖冊核定版)",
+      "size_bytes": 5732432831,
+      "size_gb": 5.34,
+      "files": 15
+    },
+    {
+      "path": "/公司資料/偉仁資料",
+      "size_bytes": 5655077688,
+      "size_gb": 5.27,
+      "files": 886
+    },
+    {
+      "path": "/公司資料/Surface Book 圖片資料",
+      "size_bytes": 5005612665,
+      "size_gb": 4.66,
+      "files": 2253
+    },
+    {
+      "path": "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案",
+      "size_bytes": 4776105362,
+      "size_gb": 4.45,
+      "files": 1170
+    },
+    {
+      "path": "/公司資料/專案相關資料/新竹海淡",
+      "size_bytes": 4458629663,
+      "size_gb": 4.15,
+      "files": 18
+    },
+    {
+      "path": "/公司資料/專案相關資料/新竹海淡/20251009發包資料",
+      "size_bytes": 4431608611,
+      "size_gb": 4.13,
+      "files": 16
+    }
+  ]
+}

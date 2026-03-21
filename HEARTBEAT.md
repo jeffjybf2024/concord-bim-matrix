@@ -5,3 +5,5 @@
 - Once per week, review ClawHub / available skills against Jeff's current needs (OpenClaw workflow, Telegram, Gmail, Drive, knowledge management, BIM, automation, voice, investing).
 - Recommend only skills with clear value; explicitly say whether each should be installed now, later, or skipped.
 - Avoid repetitive recommendations when nothing meaningful has changed.
+- Every Saturday, prepare a weekly OpenClaw usage cost summary for that week and maintain a monthly cumulative total.
+- When mail integration is available, email the weekly summary to Jeff; until then, prepare the summary for review in chat.

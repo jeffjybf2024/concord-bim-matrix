@@ -56,6 +56,17 @@ Jeff 可以直接用自然語意提問，但背後仍依賴：
 - 內容摘要
 - 搬運紀錄
 
+### 5. 本機只同步索引，不全量同步 Dropbox 內容
+Jeff 偏好：
+- 本機保留 Dropbox 的檔案名單 / 索引 / manifest
+- 只有在實際需要時，才把單一檔案或小範圍內容帶進 workspace
+
+這代表預設模式應為：
+- **metadata-first**
+- **on-demand import**
+
+而不是把 Dropbox 全量拉到本機。
+
 ---
 
 ## 建議的 workspace 結構

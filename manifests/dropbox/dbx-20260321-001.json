@@ -1,0 +1,17 @@
+{
+  "id": "dbx-20260321-001",
+  "source": {
+    "provider": "dropbox",
+    "path": "/公司資料/偉仁資料/99-詢價區/宇峰工程/BIM專業服務報價表240801.xls"
+  },
+  "workspace": {
+    "incoming": "incoming/dropbox/BIM專業服務報價表240801.xls",
+    "working": "working/dropbox/BIM專業服務報價表240801.xls",
+    "outgoing": "outgoing/dropbox/BIM專業服務報價表240801.xls"
+  },
+  "status": "working",
+  "created_at": "2026-03-21T19:09:34.843425+08:00",
+  "modified": false,
+  "return_target": "/公司資料/偉仁資料/99-詢價區/宇峰工程/BIM專業服務報價表240801.xls",
+  "notes": "Initial Dropbox to workspace import test."
+}

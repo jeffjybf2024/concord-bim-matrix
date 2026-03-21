@@ -20,3 +20,4 @@
 - Jeff 希望把個人 NAS 與網域也一併納入這次整合架構中。
 - Jeff 的 NAS 是 Synology。
 - Jeff 的網域是 site2000.com。
+- `www.site2000.com:5000` 看起來是 Synology DSM 的管理入口。

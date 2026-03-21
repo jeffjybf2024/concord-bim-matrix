@@ -1,0 +1,2653 @@
+{
+  "summary": {
+    "dropbox_index": "/Volumes/MacMini M4/OpenClaw/workspace/indexes/dropbox/company_file_index.jsonl",
+    "google_drive_index": "/Volumes/MacMini M4/OpenClaw/workspace/indexes/google-drive/drive_file_index.jsonl",
+    "exact_name_size_matches": 100,
+    "name_only_matches": 145
+  },
+  "exact_matches_sample": [
+    {
+      "name": "0.整體服務工作內容說明.doc",
+      "size": "50688",
+      "google_drive_id": "17XSngIkL1OY3CXkKbo4AUyOn8QDmtgwi",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/02執行/0.整體服務工作內容說明.doc"
+      ]
+    },
+    {
+      "name": "00專案檢討會議(20131212).pptx",
+      "size": "313543",
+      "google_drive_id": "1WRLON9WMwHuJecR8__-BRdOuAs-ifMVd",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/00專案檢討會議(20131212).pptx"
+      ]
+    },
+    {
+      "name": "02執行.zip",
+      "size": "709562",
+      "google_drive_id": "1u8CFZMWddOANARLTcjAoWbNQPD4FKivk",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/02執行/02執行.zip"
+      ]
+    },
+    {
+      "name": "113001-009-02絢富-合約條文.pdf",
+      "size": "296116",
+      "google_drive_id": "1WXpQ5JBbfk49M6gnCLwUHQaxczYWUCNp",
+      "dropbox_paths": [
+        "/公司資料/偉仁資料/99-詢價區/同開_550/桃捷A14/113001-009-02絢富-合約條文.pdf",
+        "/公司資料/偉仁資料/證據/同開_550/桃捷A14/113001-009-02絢富-合約條文.pdf",
+        "/公司資料/偉仁資料/證據/證據彙整/113001-009-02絢富-合約條文.pdf"
+      ]
+    },
+    {
+      "name": "113001-009-02絢富-訂購單.pdf",
+      "size": "1982680",
+      "google_drive_id": "1zEZXp1C0jpsoNn0V4RqIv3HmKNhXGP-u",
+      "dropbox_paths": [
+        "/公司資料/偉仁資料/99-詢價區/同開_550/桃捷A14/113001-009-02絢富-訂購單.pdf",
+        "/公司資料/偉仁資料/證據/同開_550/桃捷A14/113001-009-02絢富-訂購單.pdf",
+        "/公司資料/偉仁資料/證據/證據彙整/113001-009-02絢富-訂購單.pdf"
+      ]
+    },
+    {
+      "name": "2-3 委外工作驗收付款申請單(空白-含說明)-Final-2018-0321.docx",
+      "size": "24265",
+      "google_drive_id": "1YyTCx_xdn0Kcq6B5SUxTc4PVht5oeQax",
+      "dropbox_paths": [
+        "/公司資料/BIM專案管理相關文件_20170803/2-3 委外工作驗收付款申請單(空白-含說明)-Final-2018-0321.docx"
+      ]
+    },
+    {
+      "name": "2.BIM建置所需圖資文件清單.docx",
+      "size": "742691",
+      "google_drive_id": "14tO4ZnLxjPPfIYpNqjbSRHPc65mPYOKf",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/02執行/2.BIM建置所需圖資文件清單.docx"
+      ]
+    },
+    {
+      "name": "2.BIM建置所需圖資文件清單.docx",
+      "size": "742691",
+      "google_drive_id": "1ElLMPrKsZBHDqEwHEXaWsQ3vtPa65YyD",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/02執行/2.BIM建置所需圖資文件清單.docx"
+      ]
+    },
+    {
+      "name": "2.BIM建置所需圖資文件清單-建築.docx",
+      "size": "60034",
+      "google_drive_id": "1G4PGHANw6I7augmL_XaXNFo_mMnKZp-t",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/02執行/2.BIM建置所需圖資文件清單-建築.docx"
+      ]
+    },
+    {
+      "name": "2018_BIM初階導入規劃.pptx",
+      "size": "1430944",
+      "google_drive_id": "1lWPB37Bfdw_l1q8RaKnO2-WBf7X-BGG-",
+      "dropbox_paths": [
+        "/公司資料/簡報資料整理/2018_BIM初階導入規劃.pptx"
+      ]
+    },
+    {
+      "name": "2019-0816【皇昌營造_BIM 應用技術服務】安邦段青年宅_(土建) Final 的複本.xls",
+      "size": "175616",
+      "google_drive_id": "1ue3eGCMqYdQgXFcVZCO9JPG_pbiTFqjX",
+      "dropbox_paths": [
+        "/公司資料/BIM專案管理相關文件_20170803/專案報價資料/2019-0816【皇昌營造_BIM 應用技術服務】安邦段青年宅_(土建) Final 的複本.xls"
+      ]
+    },
+    {
+      "name": "2021-0803_資訊深化參數及COBie建置參數說明(含設備項目分級建議)-V5.xlsx",
+      "size": "92986",
+      "google_drive_id": "1PCG4MXCj2UHfTqr89Dn0FeQZc6HKZ9Fe",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/建置規範(Jeff)/2021-0803_資訊深化參數及COBie建置參數說明(含設備項目分級建議)-V5.xlsx"
+      ]
+    },
+    {
+      "name": "2025.02.11智慧工地安全管理白皮書v1.2.pdf",
+      "size": "37438065",
+      "google_drive_id": "1y4Q5ydlyEH8P1dt1EUJrxIoLIQ32_JQ7",
+      "dropbox_paths": [
+        "/公司資料/CUBICOST相關/2025.02.11智慧工地安全管理白皮書v1.2.pdf"
+      ]
+    },
+    {
+      "name": "20250805發給廠商.rar",
+      "size": "3233946",
+      "google_drive_id": "1SOhGvpL0n-y3B8FOasBKWsC9eGxlarnl",
+      "dropbox_paths": [
+        "/公司資料/專案相關資料/中鼎/20250805發給廠商.rar"
+      ]
+    },
+    {
+      "name": "3.RFI.doc",
+      "size": "67584",
+      "google_drive_id": "1eEkIRkhIi6G1UPEzoVTi4qDhqakjCwlo",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/02執行/3.RFI.doc"
+      ]
+    },
+    {
+      "name": "5.簽收單-檢討階段模型(2013.01.30).doc",
+      "size": "46592",
+      "google_drive_id": "1yudV_wayOAx80CUDagDYtxt2sVRU1fek",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/03驗收/5.簽收單-檢討階段模型(2013.01.30).doc"
+      ]
+    },
+    {
+      "name": "7.階段驗收模型表單.doc",
+      "size": "46592",
+      "google_drive_id": "1G0tLfI8SEavXwb0vxmMF5nlxnHkVZXqH",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/02執行/7.階段驗收模型表單.doc"
+      ]
+    },
+    {
+      "name": "AI_開發商.pptx",
+      "size": "14963677",
+      "google_drive_id": "1l4tBzVnFubY-KfVei2iWzeForp3OJTZx",
+      "dropbox_paths": [
+        "/公司資料/AI_開發商.pptx"
+      ]
+    },
+    {
+      "name": "Autodesk AEC 產品 電話行銷及業務人員 教育訓練課程2025-04-17.pdf",
+      "size": "262629",
+      "google_drive_id": "1HSxWSosCHIqfNFj0hR7j72ABA5RWtgtd",
+      "dropbox_paths": [
+        "/公司資料/教育訓練/業務部門/Autodesk AEC 產品 電話行銷及業務人員 教育訓練課程2025-04-17.pdf"
+      ]
+    },
+    {
+      "name": "BIM-BIM-Supply-Chain-Collaboration-Workflow-Integration.pdf",
+      "size": "11855306",
+      "google_drive_id": "1ePF7ZnSbhn-Oz4C0twMkZ5c06yQWpJHV",
+      "dropbox_paths": [
+        "/公司資料/BIM專案製作流程改造/BIM-BIM-Supply-Chain-Collaboration-Workflow-Integration.pdf"
+      ]
+    },
+    {
+      "name": "BIM_Contribution_Template.xlsx",
+      "size": "9411",
+      "google_drive_id": "18Wl4ZStx8bsiNYPQ2FEb53orpzFtB05U",
+      "dropbox_paths": [
+        "/公司資料/BIM專案製作流程改造/BIM_Contribution_Template.xlsx"
+      ]
+    },
+    {
+      "name": "BIM_Guide_and_Project_Brief.zip",
+      "size": "787924",
+      "google_drive_id": "1D_GW4wrJnOcdi6eVJKFSpXMvVBwv7o8U",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/建置規範(Jeff)/BIM_Guide_and_Project_Brief.zip"
+      ]
+    },
+    {
+      "name": "BIM_Management_Plan_Template_v1.0.doc",
+      "size": "687104",
+      "google_drive_id": "1Kl4DRaL7HHG-hAZeGb_YcOkQW0JNmSsk",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/建置規範(Jeff)/BIM_Management_Plan_Template_v1.0.doc"
+      ]
+    },
+    {
+      "name": "BIM_Planning_Guide_for_Facility_Owners-Version_2.0.pdf",
+      "size": "9551412",
+      "google_drive_id": "1cuMdOR4V7NA6IyJoohISARvpT1QGUSme",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/建置規範(jeff)/BIM_Planning_Guide_for_Facility_Owners-Version_2.0/BIM_Planning_Guide_for_Facility_Owners-Version_2.0.pdf"
+      ]
+    },
+    {
+      "name": "BIM Use 應用說明.docx",
+      "size": "21640",
+      "google_drive_id": "1ET2hdddwg7JalkVRQzGIYcJaC-K92eIg",
+      "dropbox_paths": [
+        "/公司資料/專案相關資料/桃園定泰/BIM Use 應用說明.docx"
+      ]
+    },
+    {
+      "name": "BIM 模型建置服務規範.pdf",
+      "size": "280893",
+      "google_drive_id": "1QoN8RXoHYF_eewEd89xQcR2z8WzRuZ8x",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/建置規範(Jeff)/BIM 模型建置服務規範.pdf"
+      ]
+    },
+    {
+      "name": "BIM實施指南(七) - BIM模型詳細等級.doc",
+      "size": "176128",
+      "google_drive_id": "15bRdPVqnHnon-cNGFh5GmyORsBCKU3JK",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/建置規範(Jeff)/BIM實施指南(七) - BIM模型詳細等級.doc"
+      ]
+    },
+    {
+      "name": "BIM專業服務報價表_D區231214.xlsx",
+      "size": "42387",
+      "google_drive_id": "1eeNj3bSkWBi6Bb8dKaT3HHz4CvECHUui",
+      "dropbox_paths": [
+        "/公司資料/專案相關資料/南亞科技/BIM專業服務報價表_D區231214.xlsx"
+      ]
+    },
+    {
+      "name": "BIM專業服務報價表_空白報價.xls",
+      "size": "178176",
+      "google_drive_id": "1L9JFhujmhfKTUleQS31AponkUG4hrcWV",
+      "dropbox_paths": [
+        "/公司資料/專案相關資料/BIM專業服務報價表_空白報價.xls"
+      ]
+    },
+    {
+      "name": "BIM建築專案執行計劃指南2 1版.pdf",
+      "size": "3316040",
+      "google_drive_id": "1VapQ-PRsVMdZhu5T87sPXacds1rkqFZs",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/建置規範(Jeff)/BIM建築專案執行計劃指南2 1版.pdf"
+      ]
+    },
+    {
+      "name": "BIM建置所需圖資文件清單.pdf",
+      "size": "1113478",
+      "google_drive_id": "1aW5OnGnaweJJGULSlBroj-0IA4Oj6ApO",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/02執行/BIM建置所需圖資文件清單.pdf"
+      ]
+    },
+    {
+      "name": "BIM建置所需圖資文件清單-機電.docx",
+      "size": "741134",
+      "google_drive_id": "1WTWCvqHCqjfAVAVP-28Yw8ejdC8QiuJI",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/02執行/BIM建置所需圖資文件清單-機電.docx"
+      ]
+    },
+    {
+      "name": "BIM建置所需圖資文件清單-機電.pdf",
+      "size": "1079799",
+      "google_drive_id": "1Ze8U8_HbKDSCy48as2kdMzNVTajOk4kT",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/02執行/BIM建置所需圖資文件清單-機電.pdf"
+      ]
+    },
+    {
+      "name": "BIM建置所需色彩計畫.docx",
+      "size": "42577",
+      "google_drive_id": "1Kj6E5DiNBOJnQurpGcUcFj-_RrhwocNI",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/02執行/BIM建置所需色彩計畫.docx"
+      ]
+    },
+    {
+      "name": "BIM建置所需色彩計畫.pdf",
+      "size": "317441",
+      "google_drive_id": "149V4IkoMmgcChXRzGP2LD1-W8E_5rquo",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/02執行/BIM建置所需色彩計畫.pdf"
+      ]
+    },
+    {
+      "name": "Business Case Template -V1.02.docx",
+      "size": "363495",
+      "google_drive_id": "14Fu5NUGbebYEVnr3lIBOoZlA1JwaCtGF",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/建置規範(jeff)/bim_planning_guide_for_facility_owners-version_2.0/templates/D_Business Case Template/Business Case Template -V1.02.docx"
+      ]
+    },
+    {
+      "name": "CAD+PDF繁体字介绍.pptx",
+      "size": "104978873",
+      "google_drive_id": "1PfrYYxZo72m7wf5G36Qt-6Gu2Zq_JzAU",
+      "dropbox_paths": [
+        "/公司資料/CAD READER/CAD+PDF繁体字介绍.pptx"
+      ]
+    },
+    {
+      "name": "CQ880A-PL-A0019-0 CQ880A區段標工程BIM執行計畫書_核定版.pdf",
+      "size": "3398027",
+      "google_drive_id": "1u5z5tIbxojX4VB2XlrLn-wzK0Z0RyxVJ",
+      "dropbox_paths": [
+        "/公司資料/專案相關資料/捷運880/CQ880A-PL-A0019-0 CQ880A區段標工程BIM執行計畫書_核定版.pdf"
+      ]
+    },
+    {
+      "name": "Drawing2.dwl",
+      "size": "51",
+      "google_drive_id": "1PiYeWmyH1GPxtzYqMdTRYQC5cjEBSemZ",
+      "dropbox_paths": [
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/放棄個案/放棄-立源營造-竟丞企業三重廠房/竟丞施工圖(1100202)/4.建築圖說/Drawing2.dwl",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/放棄個案/放棄-立源營造-竟丞企業三重廠房/竟丞施工圖(1100202)/8.結構圖/Drawing2.dwl"
+      ]
+    },
+    {
+      "name": "Drawing2.dwl2",
+      "size": "206",
+      "google_drive_id": "14_Glld9EUUXqDKMAyWWo3RwifnlOUC_y",
+      "dropbox_paths": [
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/放棄個案/放棄-立源營造-竟丞企業三重廠房/竟丞施工圖(1100202)/4.建築圖說/Drawing2.dwl2",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/放棄個案/放棄-立源營造-竟丞企業三重廠房/竟丞施工圖(1100202)/8.結構圖/Drawing2.dwl2"
+      ]
+    },
+    {
+      "name": "NATSPEC_National_BIM_Guide_v1.0_Sep_2011.pdf",
+      "size": "777918",
+      "google_drive_id": "1ON0X4-RmDsBHj91hUyRrpIt2pG1vwV2G",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/建置規範(jeff)/BIM_Guide_and_Project_Brief/NATSPEC_National_BIM_Guide_v1.0_Sep_2011.pdf"
+      ]
+    },
+    {
+      "name": "Organizational BIM Assessment-Version 1.02.xlsx",
+      "size": "79298",
+      "google_drive_id": "1GGKdyRWl3hHuYe-KMJLF0XkmhFp6Cyse",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/建置規範(jeff)/bim_planning_guide_for_facility_owners-version_2.0/templates/A_BIM Maturity Profile/Organizational BIM Assessment-Version 1.02.xlsx"
+      ]
+    },
+    {
+      "name": "Organizational BIM Assessment-Version 1.03.xlsx",
+      "size": "81409",
+      "google_drive_id": "1GiOL3lqoAHn8NeLvwHFCIoLlsqkkUw0b",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/建置規範(jeff)/bim_planning_guide_for_facility_owners-version_2.0/templates/A_BIM Maturity Profile/Organizational BIM Assessment-Version 1.03.xlsx"
+      ]
+    },
+    {
+      "name": "Organizational Execution Plan Template-V1.02.docx",
+      "size": "690872",
+      "google_drive_id": "1pM58ID6mPPlmyDejndNB4U2_koM2n8R8",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/建置規範(jeff)/bim_planning_guide_for_facility_owners-version_2.0/templates/C_Organizational Execution Plan/Organizational Execution Plan Template-V1.02.docx"
+      ]
+    },
+    {
+      "name": "Organizational_Strategic_Plan_Template-v1.02.docx",
+      "size": "364436",
+      "google_drive_id": "1_uBtAUO_H8zKZ04kJlymzG9U5FqZecEh",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/建置規範(jeff)/bim_planning_guide_for_facility_owners-version_2.0/templates/B_Strategic Plan/Organizational_Strategic_Plan_Template-v1.02.docx"
+      ]
+    },
+    {
+      "name": "PlanForm_Intelligent_Takeoff.pptx",
+      "size": "15496839",
+      "google_drive_id": "1fVVmjU31hwcvNpXZRTqJh3h_bzJ6jkNF",
+      "dropbox_paths": [
+        "/公司資料/CUBICOST相關/2025新產品-雲圖/PlanForm_Intelligent_Takeoff.pptx"
+      ]
+    },
+    {
+      "name": "PlanForm 業務教戰手冊_260224.docx",
+      "size": "18710",
+      "google_drive_id": "1UAsDDF4mO38plg51Ah8k9GijtuEX7D6W",
+      "dropbox_paths": [
+        "/公司資料/CUBICOST相關/2025新產品-雲圖/PlanForm 業務教戰手冊_260224.docx"
+      ]
+    },
+    {
+      "name": "PO24700014協勤.pdf",
+      "size": "1492518",
+      "google_drive_id": "1RNQ5V2dx-jrPi1_9358L2bdh3mb6MIBp",
+      "dropbox_paths": [
+        "/公司資料/專案相關資料/神通電資/PO24700014協勤.pdf"
+      ]
+    },
+    {
+      "name": "Project_BIM_Brief_v1.0_Sep_2011.doc",
+      "size": "243712",
+      "google_drive_id": "1E1luxSpF1oxCGmB23PPML947NznjRtPD",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/建置規範(jeff)/BIM_Guide_and_Project_Brief/Project_BIM_Brief_v1.0_Sep_2011.doc"
+      ]
+    },
+    {
+      "name": "project_payment_tracker.xlsx",
+      "size": "13576",
+      "google_drive_id": "1LuVpZO3VYScGglnkcsvUdAbsqBZQrn5W",
+      "dropbox_paths": [
+        "/公司資料/BIM專案管理相關文件_20170803/project_payment_tracker.xlsx"
+      ]
+    },
+    {
+      "name": "QUO-001-260223-Civil 3D-N.pdf",
+      "size": "216327",
+      "google_drive_id": "1kGP5bLuWuCJt7OSKwxEtQDXSjCSF_ClW",
+      "dropbox_paths": [
+        "/公司資料/報價單/2026報價單/QUO-001-260223-Civil 3D-N.pdf"
+      ]
+    },
+    {
+      "name": "QUO-100-20251105-ACC-石昭永.pdf",
+      "size": "217175",
+      "google_drive_id": "1HLlJVUZzBUqqJ_tRvV73VjYElF5xYm-7",
+      "dropbox_paths": [
+        "/公司資料/報價單/2025報價單/QUO-100-20251105-ACC-石昭永.pdf"
+      ]
+    },
+    {
+      "name": "QUO-100-241201-avalue.pdf",
+      "size": "229351",
+      "google_drive_id": "1Bqx5XQOmakh2iNPKvk9cykm7AoznsecW",
+      "dropbox_paths": [
+        "/公司資料/專案相關資料/神通電資/QUO-100-241201-avalue.pdf"
+      ]
+    },
+    {
+      "name": "Quo-1001205-神通-recap.pdf",
+      "size": "217151",
+      "google_drive_id": "127EGIeTCO-ZgH0JUVTMQ4RudId2KwoR2",
+      "dropbox_paths": [
+        "/公司資料/報價單/2025報價單/Quo-1001205-神通-recap.pdf"
+      ]
+    },
+    {
+      "name": "QUO-100241220-神通-汙水追加1230.pdf",
+      "size": "217799",
+      "google_drive_id": "1ZNc-xYYhd-lTRyFI9LyGD2-F7C9EAo11",
+      "dropbox_paths": [
+        "/公司資料/專案相關資料/神通電資/QUO-100241220-神通-汙水追加1230.pdf"
+      ]
+    },
+    {
+      "name": "RFP BIM Assessment Matrix-V1.02.xlsx",
+      "size": "26269",
+      "google_drive_id": "1Qs8uC-WW6euCXeTZY8Z9Omcs37whJ4pa",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/建置規範(jeff)/bim_planning_guide_for_facility_owners-version_2.0/templates/E_Project Procurment Documents/RFP BIM Assessment Matrix-V1.02.xlsx"
+      ]
+    },
+    {
+      "name": "RFQ BIM Assessment Matrix-V1.02.xlsx",
+      "size": "23451",
+      "google_drive_id": "1PgKgTpjYenzo6rz8LtVtYK7fjzAWixow",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/建置規範(jeff)/bim_planning_guide_for_facility_owners-version_2.0/templates/E_Project Procurment Documents/RFQ BIM Assessment Matrix-V1.02.xlsx"
+      ]
+    },
+    {
+      "name": "scrum flow.jpg",
+      "size": "576826",
+      "google_drive_id": "11Aio5zcXAwz3-dGXwBeBTLFFd4CyKB0u",
+      "dropbox_paths": [
+        "/公司資料/scrum flow.jpg"
+      ]
+    },
+    {
+      "name": "supplier_investigation_user_manual_for_supplier.zip",
+      "size": "6702056",
+      "google_drive_id": "1lBIU7dLsrhNg89f1X7oZUUU7smPberVc",
+      "dropbox_paths": [
+        "/公司資料/專案相關資料/台積電人力外派/supplier_investigation_user_manual_for_supplier.zip"
+      ]
+    },
+    {
+      "name": "中和安邦案第3期估驗計價表-20210629.pdf",
+      "size": "201392",
+      "google_drive_id": "1lOPe_LnVGOzER_Q6RV3Nna4vp-Plk9si",
+      "dropbox_paths": [
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/計價資料-連建華/安邦/中和安邦案第3期估驗計價表-20210629.pdf"
+      ]
+    },
+    {
+      "name": "估算部技術人員工作說明書.pdf",
+      "size": "295580",
+      "google_drive_id": "1wgKvQ4yYXEBGsmsTFDvEHFF1BcGT13xl",
+      "dropbox_paths": [
+        "/公司資料/協勤部門管理資料/06 BIM算量及雲端事業部/估算部技術人員工作說明書.pdf"
+      ]
+    },
+    {
+      "name": "內湖污水處理廠-追加報價單1217工程.pdf",
+      "size": "127623",
+      "google_drive_id": "1KVIODoq6inJJvdd5AKF0Cf_q_sQGJaqg",
+      "dropbox_paths": [
+        "/公司資料/專案相關資料/神通電資/安勤/內湖污水處理廠-追加報價單1217工程.pdf"
+      ]
+    },
+    {
+      "name": "內湖污水處理廠-追加報價單工程1212.pdf",
+      "size": "116915",
+      "google_drive_id": "1BwOJNyepCc7fCyGoyiGAfIPjB7Pl8bcs",
+      "dropbox_paths": [
+        "/公司資料/專案相關資料/神通電資/內湖污水處理廠-追加報價單工程1212.pdf"
+      ]
+    },
+    {
+      "name": "公司簡介及專案實例介紹20241218.pptx",
+      "size": "15988872",
+      "google_drive_id": "1mi4dsIOzaIASq7hzDY-W6G-jb9uT6wU3",
+      "dropbox_paths": [
+        "/公司資料/簡報資料整理/公司簡介及專案實例介紹20241218.pptx"
+      ]
+    },
+    {
+      "name": "(公告)A區施工圖發行一覽表20251015.xlsx",
+      "size": "55192",
+      "google_drive_id": "1MoDks_5su2TBm8BFir0m3Yj_EQKeeh6Q",
+      "dropbox_paths": [
+        "/公司資料/專案相關資料/南亞科技/(公告)A區施工圖發行一覽表20251015.xlsx"
+      ]
+    },
+    {
+      "name": "列印預覽 _ 104招募管理_陳厚瑞.pdf",
+      "size": "698396",
+      "google_drive_id": "1ZdATFvKdcFa1hurCSr1KM4m828Bsnf0F",
+      "dropbox_paths": [
+        "/公司資料/人力招募/列印預覽 _ 104招募管理_陳厚瑞.pdf"
+      ]
+    },
+    {
+      "name": "劳务管理“黑科技”——智能安全帽.mp4",
+      "size": "763735303",
+      "google_drive_id": "1lSOhDlhXHA_JHMbaJMHYKb2nc4AQfikM",
+      "dropbox_paths": [
+        "/公司資料/CUBICOST相關/智慧安全帽/劳务管理“黑科技”——智能安全帽.mp4",
+        "/公司資料/大象雲/劳务管理“黑科技”——智能安全帽.mp4"
+      ]
+    },
+    {
+      "name": "協勤BIM服務項目說明(20131212).doc",
+      "size": "82432",
+      "google_drive_id": "1-KKX5s82bcVZLG-PKkbnZ2Ur-l2IQ-aO",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/01前期/協勤BIM服務項目說明(20131212).doc"
+      ]
+    },
+    {
+      "name": "協勤BIM服務項目說明(20241202.pdf",
+      "size": "215299",
+      "google_drive_id": "1I8hkBHvM3AdQrRZkcovmZ-DqPWrXszOz",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/01前期/協勤BIM服務項目說明(20241202.pdf"
+      ]
+    },
+    {
+      "name": "協勤BIM服務項目說明.doc",
+      "size": "82944",
+      "google_drive_id": "1nGbmeZ12n0xM9r41bHm92KRCqg1y_79B",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/01前期/協勤BIM服務項目說明.doc"
+      ]
+    },
+    {
+      "name": "協勤BIM服務項目說明-修改.doc",
+      "size": "103424",
+      "google_drive_id": "1tU6Q4T_CrjzN9qeNjkekVQ-jDZREDheN",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/01前期/協勤BIM服務項目說明-修改.doc"
+      ]
+    },
+    {
+      "name": "協勤BIM服務項目說明-修改may.doc",
+      "size": "1695232",
+      "google_drive_id": "12LeezkilKl0YINx3AtFbDC_ihr_EnyPp",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/01前期/協勤BIM服務項目說明-修改may.doc"
+      ]
+    },
+    {
+      "name": "協勤BIM服務項目說明-修改Vivi.doc",
+      "size": "626176",
+      "google_drive_id": "1m-MriXPVZ_3T02IQpWnzXSL7RG_QXVgI",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/01前期/協勤BIM服務項目說明-修改Vivi.doc"
+      ]
+    },
+    {
+      "name": "協勤雲圖台SDK.zip",
+      "size": "1345164",
+      "google_drive_id": "1q_YbfKGRpWqZTAwBQaae154QGTfIOSmR",
+      "dropbox_paths": [
+        "/公司資料/承天雲台/協勤雲圖台SDK.zip"
+      ]
+    },
+    {
+      "name": "員工資料卡-鄭偉仁_organized.pdf",
+      "size": "4834273",
+      "google_drive_id": "1LYTEkeLCyAtf9BtxVrb77Y3dEGduVKgL",
+      "dropbox_paths": [
+        "/公司資料/偉仁資料/員工資料卡-鄭偉仁_organized.pdf"
+      ]
+    },
+    {
+      "name": "委託專案管理模式之工程進度及品質管理參考手冊(Word格式)拷貝.docx",
+      "size": "1540090",
+      "google_drive_id": "128DJaepk3ZcCFIOG338wbqx3myYPOCkV",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/委託專案管理模式之工程進度及品質管理參考手冊(Word格式)拷貝.docx"
+      ]
+    },
+    {
+      "name": "委託專案管理模式之工程進度及品質管理參考手冊(Word格式)拷貝.pdf",
+      "size": "1069750",
+      "google_drive_id": "1ID5w6RmKhvPL_0r8gSUKj9QKWN5pV6xH",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/委託專案管理模式之工程進度及品質管理參考手冊(Word格式)拷貝.pdf"
+      ]
+    },
+    {
+      "name": "客戶訪談單(20131212).docx",
+      "size": "38503",
+      "google_drive_id": "1o1wsjS8ZvIhbKjAtQo-0gY2EgcezsNhT",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/01前期/客戶訪談單(20131212).docx"
+      ]
+    },
+    {
+      "name": "客戶訪談單(20241202.pdf",
+      "size": "202623",
+      "google_drive_id": "1YKv0ftjgogX7NfxpUBv-555WCCDQPEti",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/01前期/客戶訪談單(20241202.pdf"
+      ]
+    },
+    {
+      "name": "客戶訪談單.docx",
+      "size": "37897",
+      "google_drive_id": "1Byc9lNizAXoOeJP2N40yFyLYL_HD7Zla",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/01前期/客戶訪談單.docx"
+      ]
+    },
+    {
+      "name": "客戶訪談單_家瑋_140109.docx",
+      "size": "594687",
+      "google_drive_id": "1qqhKc7Z5ElMzseMMx_bOPIJTswDzpXSa",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/01前期/客戶訪談單_家瑋_140109.docx"
+      ]
+    },
+    {
+      "name": "專案綜合交付(IPD)經驗.pptx",
+      "size": "7783806",
+      "google_drive_id": "1ncxztetSvUhupXyP5sizo4BtmdXEocZO",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/建置規範(Jeff)/專案綜合交付(IPD)經驗.pptx"
+      ]
+    },
+    {
+      "name": "專案項目單價分析表(20131212).xlsx",
+      "size": "13517",
+      "google_drive_id": "13zj1y-1JZTu-9-cWw6_kscTbGHrEZon9",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/01前期/專案項目單價分析表(20131212).xlsx"
+      ]
+    },
+    {
+      "name": "專案項目單價分析表.xlsx",
+      "size": "19486",
+      "google_drive_id": "1faatEJx4PWF-ToTO2TFQf3cs9t0W14BZ",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/01前期/專案項目單價分析表.xlsx"
+      ]
+    },
+    {
+      "name": "工程估驗明細表.xls",
+      "size": "44544",
+      "google_drive_id": "1HJnHZPfyj8plrnSm56qi0KIbfpvG0Efh",
+      "dropbox_paths": [
+        "/公司資料/偉仁資料/99-詢價區/08-八德外役監/工程估驗明細表.xls",
+        "/公司資料/偉仁資料/證據/08-八德外役監/工程估驗明細表.xls",
+        "/公司資料/偉仁資料/證據/證據彙整/工程估驗明細表.xls"
+      ]
+    },
+    {
+      "name": "工程估驗計價單_用印.pdf",
+      "size": "390709",
+      "google_drive_id": "1-k5o98XWYVEHoTkYMUAj6LLpUgJM9UoK",
+      "dropbox_paths": [
+        "/公司資料/偉仁資料/99-詢價區/F-帆宣系統/工程估驗計價單_用印.pdf",
+        "/公司資料/偉仁資料/證據/F-帆宣系統/工程估驗計價單_用印.pdf",
+        "/公司資料/偉仁資料/證據/證據彙整/工程估驗計價單_用印.pdf"
+      ]
+    },
+    {
+      "name": "工程估驗計價總表.pdf",
+      "size": "319435",
+      "google_drive_id": "1RkuYkTByTAib-6eqTitTR444-hQgPSjl",
+      "dropbox_paths": [
+        "/公司資料/偉仁資料/99-詢價區/F-式新工程_協勤派駐人力殉富收費/新竹海水淡化廠/工程估驗計價總表.pdf",
+        "/公司資料/偉仁資料/證據/F-式新工程_協勤派駐人力殉富收費/新竹海水淡化廠/工程估驗計價總表.pdf",
+        "/公司資料/偉仁資料/證據/證據彙整/工程估驗計價總表.pdf"
+      ]
+    },
+    {
+      "name": "广联达智慧劳务产品介绍-最新版.pptx",
+      "size": "12979985",
+      "google_drive_id": "1IcxG9dZ76USXO69hTCiu5AD5ZUv3imFy",
+      "dropbox_paths": [
+        "/公司資料/CUBICOST相關/智慧安全帽/广联达智慧劳务产品介绍-最新版.pptx"
+      ]
+    },
+    {
+      "name": "廣慈D標-本案BIM成果報告書_2022_0815.docx",
+      "size": "117269567",
+      "google_drive_id": "1yhFq5PQ45L8aTib_KJlVg-iFR1ZihHur",
+      "dropbox_paths": [
+        "/公司資料/BIM專案管理相關文件_20170803/廣慈D標-本案BIM成果報告書_2022_0815.docx"
+      ]
+    },
+    {
+      "name": "建築分色計畫.docx",
+      "size": "60834",
+      "google_drive_id": "1pMHFnWrdmol7FlGrYr6WFhQqdVkX8BDV",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/02執行/建築分色計畫.docx"
+      ]
+    },
+    {
+      "name": "戴動工地現場智慧連結管理ver.8 (003).pdf",
+      "size": "8112281",
+      "google_drive_id": "18jw_0B4HMzltokEcUxJA8SBbqZ4MWhjD",
+      "dropbox_paths": [
+        "/公司資料/CUBICOST相關/智慧安全帽/戴動工地現場智慧連結管理ver.8 (003).pdf"
+      ]
+    },
+    {
+      "name": "智能安全帽：基于劳务实名的施工现场人员考勤定位管理系统.pdf",
+      "size": "765132",
+      "google_drive_id": "1-RKad6kaz2MSEjYVHQcq59kjVouvX0At",
+      "dropbox_paths": [
+        "/公司資料/CUBICOST相關/智慧安全帽/智能安全帽：基于劳务实名的施工现场人员考勤定位管理系统.pdf"
+      ]
+    },
+    {
+      "name": "相關總表.xlsx",
+      "size": "13561",
+      "google_drive_id": "1bZD1U4jDZF8-pNi4xdT48e2oXeXHbJWA",
+      "dropbox_paths": [
+        "/公司資料/偉仁資料/證據/相關總表.xlsx"
+      ]
+    },
+    {
+      "name": "第一次請款計價總表+估價表(立源營造-平鎮南勢綜合行政大樓).pdf",
+      "size": "379607",
+      "google_drive_id": "13r2mVC-thDdgfg4KUHrEkwzNyX6GWUq7",
+      "dropbox_paths": [
+        "/公司資料/BIM專案管理相關文件_20170803/第一次請款計價總表+估價表(立源營造-平鎮南勢綜合行政大樓).pdf"
+      ]
+    },
+    {
+      "name": "紐約公園_請款比例表.xlsx",
+      "size": "12453",
+      "google_drive_id": "1_1DG-r_sfO5bhAC4wugV7sOsKLqZT7s-",
+      "dropbox_paths": [
+        "/公司資料/偉仁資料/99-詢價區/F-正鋒水電/紐約公園_請款比例表.xlsx",
+        "/公司資料/偉仁資料/證據/F-正鋒水電/紐約公園_請款比例表.xlsx",
+        "/公司資料/偉仁資料/證據/證據彙整/紐約公園_請款比例表.xlsx"
+      ]
+    },
+    {
+      "name": "絢富 3330-20250326006_用印.pdf",
+      "size": "603346",
+      "google_drive_id": "1cb5ScCRuYIP9KM-tgeQlwqX6Da9IGn1k",
+      "dropbox_paths": [
+        "/公司資料/偉仁資料/99-詢價區/F-巨漢系統/合晶科技/絢富 3330-20250326006_用印.pdf",
+        "/公司資料/偉仁資料/證據/F-巨漢系統/合晶科技/絢富 3330-20250326006_用印.pdf",
+        "/公司資料/偉仁資料/證據/證據彙整/絢富 3330-20250326006_用印.pdf"
+      ]
+    },
+    {
+      "name": "絢富數位科技_第一期計價單_231225.pdf",
+      "size": "397066",
+      "google_drive_id": "1ShVQZ_OeyUdVSVXR-YEmA4fUCfz9s9V1",
+      "dropbox_paths": [
+        "/公司資料/偉仁資料/99-詢價區/F-正鋒水電/絢富數位科技_第一期計價單_231225.pdf",
+        "/公司資料/偉仁資料/證據/F-正鋒水電/絢富數位科技_第一期計價單_231225.pdf",
+        "/公司資料/偉仁資料/證據/證據彙整/絢富數位科技_第一期計價單_231225.pdf"
+      ]
+    },
+    {
+      "name": "絢富數位科技_第四次計價_確認單.pdf",
+      "size": "194591",
+      "google_drive_id": "1oT9VIcEE5OctVwP7GJGXLVQIU57NFqdD",
+      "dropbox_paths": [
+        "/公司資料/偉仁資料/99-詢價區/F-敦泰建設/絢富數位科技_第四次計價_確認單.pdf",
+        "/公司資料/偉仁資料/證據/F-敦泰建設/絢富數位科技_第四次計價_確認單.pdf",
+        "/公司資料/偉仁資料/證據/證據彙整/絢富數位科技_第四次計價_確認單.pdf"
+      ]
+    },
+    {
+      "name": "編碼原則.docx",
+      "size": "37591",
+      "google_drive_id": "151ax1tE_XDOdLyABV2dvyFtPD6pjVR0i",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/02執行/編碼原則.docx"
+      ]
+    },
+    {
+      "name": "自動倉儲BIM應用與導入.pdf",
+      "size": "1012199",
+      "google_drive_id": "1V9ZKG6gd3x1qDdck3qR1L4Rksbi4EH8J",
+      "dropbox_paths": [
+        "/公司資料/簡報資料整理/自動倉儲BIM應用與導入.pdf"
+      ]
+    }
+  ],
+  "name_only_matches_sample": [
+    {
+      "name": "00專案檢討會議.pptx",
+      "size": "1594301",
+      "google_drive_id": "1SYbe-c2QHfakVDCq998og93qe0eTILGM",
+      "dropbox_paths": [
+        "/公司資料/bim專案管理相關文件_20170803/專案標準/00專案檢討會議.pptx"
+      ]
+    },
+    {
+      "name": "04.八德大湳統需書(V4.0)第二冊_1140418.pdf",
+      "size": null,
+      "google_drive_id": "1Nxczk_A1V-OnM3squvl4qSW1HF1N2vwX",
+      "dropbox_paths": [
+        "/公司資料/專案相關資料/04.八德大湳統需書(V4.0)第二冊_1140418.pdf"
+      ]
+    },
+    {
+      "name": "104招募管理_顏呈芳_客戶成功_241220.pdf",
+      "size": "30405",
+      "google_drive_id": "1W96q1t7j9_jtuaCNKNVF_S0KP6V-MAg0",
+      "dropbox_paths": [
+        "/公司資料/人力招募/業務部/104招募管理_顏呈芳_客戶成功_241220.pdf"
+      ]
+    },
+    {
+      "name": "1F.pdf",
+      "size": "522582",
+      "google_drive_id": "1p_qcCXd0WBtisf882JnNvIDrV1-THzgP",
+      "dropbox_paths": [
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/未得標/未投標-德鑫施工圖(1100422)/3.地坪上色示意圖/粉刷圖示/1F.pdf"
+      ]
+    },
+    {
+      "name": "2018_BIM初階導入規劃.pptx",
+      "size": "1430930",
+      "google_drive_id": "1zXJpon04GrjmGEBhPc09TOQsxB8aTNWG",
+      "dropbox_paths": [
+        "/公司資料/簡報資料整理/2018_BIM初階導入規劃.pptx"
+      ]
+    },
+    {
+      "name": "2019-01-10 12-09-24_Trim(火警-化學物查詢影片).mp4",
+      "size": "2175855",
+      "google_drive_id": "1WmI6F4B37L3x7K8Own7Hr65clFf84x1G",
+      "dropbox_paths": [
+        "/公司資料/承天雲台/BIM FM/長庚專案/2019-01-10 12-09-24_Trim(火警-化學物查詢影片).mp4",
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/未得標/未得標-新竹憶卿醫院/2019-01-10 12-09-24_Trim(火警-化學物查詢影片).mp4",
+        "/公司資料/專案相關資料/未得標項目/交大憶卿醫院/2019-01-10 12-09-24_Trim(火警-化學物查詢影片).mp4"
+      ]
+    },
+    {
+      "name": "23036120-agent-202411111533.docx",
+      "size": "67328",
+      "google_drive_id": "15XJ0jGI7WpaUYlpQH3ZgnCNvDhNXDw4q",
+      "dropbox_paths": [
+        "/公司資料/DraftSight/2024共同契約/23036120-agent-202411111533.docx"
+      ]
+    },
+    {
+      "name": "23036120-application-202411111533.docx",
+      "size": "66250",
+      "google_drive_id": "19VeGva5Un9ndwlpIIWiVoX2TBbIIcI-a",
+      "dropbox_paths": [
+        "/公司資料/DraftSight/2024共同契約/23036120-application-202411111533.docx"
+      ]
+    },
+    {
+      "name": "2F.dwg",
+      "size": "19677864",
+      "google_drive_id": "1L7bXv6qCOHp_PSJTi5O9JglM50NXr90h",
+      "dropbox_paths": [
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/1.發包圖面/3.消防20211126/XREF/停車棟XREF-1019/2F.dwg"
+      ]
+    },
+    {
+      "name": "2F.pdf",
+      "size": "39374",
+      "google_drive_id": "1CNsKZ28Al-9BjMyddyGUtHDI7XtRM_iI",
+      "dropbox_paths": [
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/未得標/未投標-德鑫施工圖(1100422)/3.地坪上色示意圖/粉刷圖示/2F.pdf"
+      ]
+    },
+    {
+      "name": "3F.pdf",
+      "size": "36616",
+      "google_drive_id": "1eprSY6S1ToR4dtKNAhEfTBPThAro7D6d",
+      "dropbox_paths": [
+        "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案/未得標/未投標-德鑫施工圖(1100422)/3.地坪上色示意圖/粉刷圖示/3F.pdf"
+      ]
+    },
+    {
+      "name": "4.jpg",
+      "size": "7385544",
+      "google_drive_id": "1gX-opujqFlyfIyFyw5goAkveCytylGZb",
+      "dropbox_paths": [
+        "/公司資料/偉仁資料/99-詢價區/F-金務大_捷運東湖_CTC陪標/3d-gis需求/4.jpg",
+        "/公司資料/偉仁資料/證據/F-金務大_捷運東湖_CTC陪標/3d-gis需求/4.jpg"
+      ]
+    },
+    {
+      "name": "Action Plan_Jason_0728.xlsx",
+      "size": "25446",
+      "google_drive_id": "1pQGRXkWX-_lUcymPLuH3F0Mw8AOa6SGn",
+      "dropbox_paths": [
+        "/公司資料/人力招募/業務部/Action Plan_Jason_0728.xlsx"
+      ]
+    },
+    {
+      "name": "AI在建築開發商的應用及價值250215.pptx",
+      "size": "8035915",
+      "google_drive_id": "1VWmkWp93Iw30ntt6f_lK0wpqCNE8w0qD",
+      "dropbox_paths": [
+        "/公司資料/簡報資料整理/公司簡報/AI在建築開發商的應用及價值250215.pptx"
+      ]
+    },
+    {
+      "name": "Autodesk_租賃FORM.xlsx",
+      "size": "16594",
+      "google_drive_id": "1D3JDeuDcz1T-ISWwFiqvphg26WdEBOm7",
+      "dropbox_paths": [
+        "/公司資料/報價單/2026報價單/Autodesk_租賃FORM.xlsx"
+      ]
+    },
+    {
+      "name": "AutoDesk雲端訂閱授權管理-協勤資訊(2).pptx",
+      "size": "4639532",
+      "google_drive_id": "1EWWlcRY8MJgVkrS0RjM0PAJhZ2SPMWBo",
+      "dropbox_paths": [
+        "/公司資料/Optilic/AutoDesk雲端訂閱授權管理-協勤資訊(2).pptx"
+      ]
+    },
+    {
+      "name": "BIM雲端全生命週期應用20211116.pptx",
+      "size": "302324397",
+      "google_drive_id": "14UEqgUA9C68ZQiyzoaLw68WLU8j4VHZH",
+      "dropbox_paths": [
+        "/公司資料/簡報資料整理/BIM雲端全生命週期應用20211116.pptx"
+      ]
+    },
+    {
+      "name": ".gitignore",
+      "size": "4951",
+      "google_drive_id": "1VzS-WIjSYvsieNy8xgcaEhUFfkUBhQTt",
+      "dropbox_paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.pytest_cache/.gitignore",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/.gitignore"
+      ]
+    },
+    {
+      "name": "hardcopy.log",
+      "size": null,
+      "google_drive_id": "14zUOGFcSRKrQA8la6pvVZ9DGFNU35Odb",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/hardcopy.log"
+      ]
+    },
+    {
+      "name": "hardcopy.log",
+      "size": null,
+      "google_drive_id": "18Df-A_EAYFsb-crEY6bElsk3y4mEY9Ko",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/hardcopy.log"
+      ]
+    },
+    {
+      "name": "hardcopy.log",
+      "size": null,
+      "google_drive_id": "1EBqgDR6IuU19Xa9s7jIV2H7a5Ez0nTjM",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/hardcopy.log"
+      ]
+    },
+    {
+      "name": "hardcopy.log",
+      "size": "12502",
+      "google_drive_id": "15wm2jy2iK1tVIL3DtZrWpaQghN68VhYl",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/hardcopy.log"
+      ]
+    },
+    {
+      "name": "hardcopy.log",
+      "size": "4166",
+      "google_drive_id": "1B3gkGu9MoMPWxoJBayXiw70fDNR27OqQ",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/hardcopy.log"
+      ]
+    },
+    {
+      "name": "hardcopy.log",
+      "size": "4166",
+      "google_drive_id": "1Y-MzVlhwqytrQdlIZsJRPQtWQp0eIsf8",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/hardcopy.log"
+      ]
+    },
+    {
+      "name": "hardcopy.log",
+      "size": "5568",
+      "google_drive_id": "1zuX3DED_P9-SzSdqb1DvYwZoj5ws8l0D",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/hardcopy.log"
+      ]
+    },
+    {
+      "name": "hardcopy.log",
+      "size": "37510",
+      "google_drive_id": "1g0LUgeM-ooLLpXR6OxgMU6ugKGUlP6Xr",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/hardcopy.log"
+      ]
+    },
+    {
+      "name": "hardcopy.log",
+      "size": "4166",
+      "google_drive_id": "1hA7s-LwSYa2BR9hc5lfvbVKIP8Si52cD",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/hardcopy.log"
+      ]
+    },
+    {
+      "name": "hardcopy.log",
+      "size": "900",
+      "google_drive_id": "1Oa81psivkL9ul7dzHwEHRtVR54_7pmgD",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/hardcopy.log"
+      ]
+    },
+    {
+      "name": "hardcopy.log",
+      "size": "8334",
+      "google_drive_id": "1mMzp2Xi1Dg-c2jgY_HFjLIG_p7bpQUzT",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/hardcopy.log"
+      ]
+    },
+    {
+      "name": "hardcopy.log",
+      "size": "8334",
+      "google_drive_id": "1G7S3_474TfpbOlWjN-nJQcdSQry5G8vJ",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/hardcopy.log"
+      ]
+    },
+    {
+      "name": "hardcopy.log",
+      "size": null,
+      "google_drive_id": "1jRDs0hcPGiA6a2x8jVuo2fg383U9y3DV",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/hardcopy.log"
+      ]
+    },
+    {
+      "name": "hardcopy.log",
+      "size": null,
+      "google_drive_id": "1-KjywReSa3NHl-_Jwp4sGGZDYgh2Bb5K",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/hardcopy.log"
+      ]
+    },
+    {
+      "name": "hardcopy.log",
+      "size": null,
+      "google_drive_id": "1F6SXh5Lk17pGmSBoSqLGXjvpAP_Q82Ow",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/hardcopy.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/hardcopy.log"
+      ]
+    },
+    {
+      "name": "initial.resx.js.下載",
+      "size": "5630",
+      "google_drive_id": "1ozSawaTrfFLnkIVTNW-E9WtWr4OVXzLK",
+      "dropbox_paths": [
+        "/公司資料/偉仁資料/OneDrive_20250912_files/initial.resx.js.下載"
+      ]
+    },
+    {
+      "name": "LICENSE",
+      "size": "35147",
+      "google_drive_id": "1qJLSMb7FZ98dwPIk82ma2pl9gMgoE-Nc",
+      "dropbox_paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/async_timeout-5.0.1.dist-info/LICENSE",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/annotated_types-0.7.0.dist-info/licenses/LICENSE",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/SQLAlchemy-2.0.35.dist-info/LICENSE",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/aiosqlite-0.20.0.dist-info/LICENSE",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/alembic-1.13.3.dist-info/LICENSE",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/anyio-4.12.1.dist-info/licenses/LICENSE",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/asyncpg-0.29.0.dist-info/LICENSE",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/bcrypt-4.0.1.dist-info/LICENSE",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/certifi-2026.2.25.dist-info/licenses/LICENSE",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/cffi-2.0.0.dist-info/licenses/LICENSE"
+      ]
+    },
+    {
+      "name": "LICENSE",
+      "size": "592",
+      "google_drive_id": "1ZM-bxzXEOaWeeAlrM9112zuXBe6SnWKI",
+      "dropbox_paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/async_timeout-5.0.1.dist-info/LICENSE",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/annotated_types-0.7.0.dist-info/licenses/LICENSE",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/SQLAlchemy-2.0.35.dist-info/LICENSE",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/aiosqlite-0.20.0.dist-info/LICENSE",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/alembic-1.13.3.dist-info/LICENSE",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/anyio-4.12.1.dist-info/licenses/LICENSE",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/asyncpg-0.29.0.dist-info/LICENSE",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/bcrypt-4.0.1.dist-info/LICENSE",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/certifi-2026.2.25.dist-info/licenses/LICENSE",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/cffi-2.0.0.dist-info/licenses/LICENSE"
+      ]
+    },
+    {
+      "name": "LICENSE",
+      "size": "1102",
+      "google_drive_id": "1rxDdKAXm_tZXvFGIfkR7qxzeFb2UuUHd",
+      "dropbox_paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/async_timeout-5.0.1.dist-info/LICENSE",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/annotated_types-0.7.0.dist-info/licenses/LICENSE",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/SQLAlchemy-2.0.35.dist-info/LICENSE",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/aiosqlite-0.20.0.dist-info/LICENSE",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/alembic-1.13.3.dist-info/LICENSE",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/anyio-4.12.1.dist-info/licenses/LICENSE",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/asyncpg-0.29.0.dist-info/LICENSE",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/bcrypt-4.0.1.dist-info/LICENSE",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/certifi-2026.2.25.dist-info/licenses/LICENSE",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/cffi-2.0.0.dist-info/licenses/LICENSE"
+      ]
+    },
+    {
+      "name": "LICENSE.md",
+      "size": "1104",
+      "google_drive_id": "1qyBfCIdF7zL5sFpyokkGZAGEwYIyOBUS",
+      "dropbox_paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.md",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/httpx-0.27.2.dist-info/licenses/LICENSE.md",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/idna-3.11.dist-info/licenses/LICENSE.md",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/starlette-0.38.6.dist-info/licenses/LICENSE.md",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/uvicorn-0.30.6.dist-info/licenses/LICENSE.md"
+      ]
+    },
+    {
+      "name": "LICENSE.md",
+      "size": "1104",
+      "google_drive_id": "17Dmt45oPBNWK0k92rTIZnWY-kisT7rQq",
+      "dropbox_paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/httpcore-1.0.9.dist-info/licenses/LICENSE.md",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/httpx-0.27.2.dist-info/licenses/LICENSE.md",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/idna-3.11.dist-info/licenses/LICENSE.md",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/starlette-0.38.6.dist-info/licenses/LICENSE.md",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/uvicorn-0.30.6.dist-info/licenses/LICENSE.md"
+      ]
+    },
+    {
+      "name": "LICENSE.TXT",
+      "size": "1139",
+      "google_drive_id": "1_ACcTr3fgJQrxnqiVDbU6Yaavyh9LO9I",
+      "dropbox_paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/click-8.3.1.dist-info/licenses/LICENSE.txt",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/colorama-0.4.6.dist-info/licenses/LICENSE.txt",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/h11-0.16.0.dist-info/licenses/LICENSE.txt",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/markupsafe-3.0.3.dist-info/licenses/LICENSE.txt",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pip-24.0.dist-info/LICENSE.txt",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/python_multipart-0.0.12.dist-info/licenses/LICENSE.txt"
+      ]
+    },
+    {
+      "name": "LICENSE.TXT",
+      "size": "1139",
+      "google_drive_id": "1Es7u3cDzN8zAhyhvUir9Q-UvG_5dT-VJ",
+      "dropbox_paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/click-8.3.1.dist-info/licenses/LICENSE.txt",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/colorama-0.4.6.dist-info/licenses/LICENSE.txt",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/h11-0.16.0.dist-info/licenses/LICENSE.txt",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/markupsafe-3.0.3.dist-info/licenses/LICENSE.txt",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pip-24.0.dist-info/LICENSE.txt",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/python_multipart-0.0.12.dist-info/licenses/LICENSE.txt"
+      ]
+    },
+    {
+      "name": "LICENSE.TXT",
+      "size": "1139",
+      "google_drive_id": "1E_BOMR9WgOoTRNtlzMnSRbm3GTqroLGL",
+      "dropbox_paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/click-8.3.1.dist-info/licenses/LICENSE.txt",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/colorama-0.4.6.dist-info/licenses/LICENSE.txt",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/h11-0.16.0.dist-info/licenses/LICENSE.txt",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/markupsafe-3.0.3.dist-info/licenses/LICENSE.txt",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pip-24.0.dist-info/LICENSE.txt",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/python_multipart-0.0.12.dist-info/licenses/LICENSE.txt"
+      ]
+    },
+    {
+      "name": "LICENSE.TXT",
+      "size": "1139",
+      "google_drive_id": "1-_mmYBQi51GW_U8uaAk6scHkgPNpbgeS",
+      "dropbox_paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/click-8.3.1.dist-info/licenses/LICENSE.txt",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/colorama-0.4.6.dist-info/licenses/LICENSE.txt",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/h11-0.16.0.dist-info/licenses/LICENSE.txt",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/markupsafe-3.0.3.dist-info/licenses/LICENSE.txt",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/pip-24.0.dist-info/LICENSE.txt",
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.venv/Lib/site-packages/python_multipart-0.0.12.dist-info/licenses/LICENSE.txt"
+      ]
+    },
+    {
+      "name": "logo.png",
+      "size": "8309",
+      "google_drive_id": "1H8LyAI9Zhknfup8Gte-5AwPEc8vDLETh",
+      "dropbox_paths": [
+        "/公司資料/DraftSight/政府採購契約相關/品項資料/LOGO.png"
+      ]
+    },
+    {
+      "name": "logo.png",
+      "size": "34252",
+      "google_drive_id": "1mSFc49E-LRwboiFhtro_Khr7y11-HKiS",
+      "dropbox_paths": [
+        "/公司資料/DraftSight/政府採購契約相關/品項資料/LOGO.png"
+      ]
+    },
+    {
+      "name": "logo.png",
+      "size": "11316",
+      "google_drive_id": "13YpkRuRS6IjrMCfp1OTSff-Rq1AturjN",
+      "dropbox_paths": [
+        "/公司資料/DraftSight/政府採購契約相關/品項資料/LOGO.png"
+      ]
+    },
+    {
+      "name": "logo.png",
+      "size": "11316",
+      "google_drive_id": "1sLxSMPd6RCJ4LuoMNfPGkzkDIt4mM8cT",
+      "dropbox_paths": [
+        "/公司資料/DraftSight/政府採購契約相關/品項資料/LOGO.png"
+      ]
+    },
+    {
+      "name": "logo.png",
+      "size": "11316",
+      "google_drive_id": "11dgnD8AwiO5DGMffT0EyDIQfxptp9a9Q",
+      "dropbox_paths": [
+        "/公司資料/DraftSight/政府採購契約相關/品項資料/LOGO.png"
+      ]
+    },
+    {
+      "name": "logo.png",
+      "size": "11316",
+      "google_drive_id": "1_hE--fKZ-z2xte6IpSAdfAjxeUhP0eis",
+      "dropbox_paths": [
+        "/公司資料/DraftSight/政府採購契約相關/品項資料/LOGO.png"
+      ]
+    },
+    {
+      "name": "logo.png",
+      "size": "11316",
+      "google_drive_id": "1GE7vwcNt9TmU6dfFHbYM14WxT5kSno4y",
+      "dropbox_paths": [
+        "/公司資料/DraftSight/政府採購契約相關/品項資料/LOGO.png"
+      ]
+    },
+    {
+      "name": "oneshell",
+      "size": "146175",
+      "google_drive_id": "1cbiwgC0L0hzDpopHGBmHTTJ8kCeAUHQv",
+      "dropbox_paths": [
+        "/公司資料/偉仁資料/OneDrive_20250912_files/OneShell"
+      ]
+    },
+    {
+      "name": "PCC 工項解析規則說明-20211014-v1.pptx",
+      "size": "2567302",
+      "google_drive_id": "1Mt8UiH6IHbYHOZbH6hc5pcIfe1TIjO1U",
+      "dropbox_paths": [
+        "/公司資料/專案相關資料/PCC 工項解析規則說明-20211014-v1.pptx"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "2450",
+      "google_drive_id": "1t8EUUStnCf8YKRfjEQgAsCKHIhtOxqSL",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "1379",
+      "google_drive_id": "1UFB_cPR-KYYEIkR9qKcQjL9zXgaZ0IB1",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "5687",
+      "google_drive_id": "1_NOrvMA_HbxWYr6h2NqLjCoE8pVKNM6X",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "3000",
+      "google_drive_id": "1xz2GaHxYKni0rWawOdRgLlKP75XLWyaN",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "4621",
+      "google_drive_id": "1_rO0fz25ec8OQmSy0M2drQniSMd71rfE",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "1218",
+      "google_drive_id": "1mAjohHC3_wNjcSbZYKfJNyjmrZf_SDpa",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "603",
+      "google_drive_id": "14bUCUGTiTBL2EAq9Hc57lL2Ws2fHHUNv",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "1405",
+      "google_drive_id": "1tDxSMvErVuuObua4L4w1CKM_Xvoe7YE6",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "930",
+      "google_drive_id": "1THnKpVq19YXb4WQyrSra0Z9kYwUvxhYG",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "313",
+      "google_drive_id": "1Vz2OYjojOtTGlyaB6LyleAgE0Hqh4cFg",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "1908",
+      "google_drive_id": "1SUWsvIeB6ozBOWYzYRLKRvrM0KGOT4NQ",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "676",
+      "google_drive_id": "1Rr3R3l5riHUpUhCjonm-Fc2rf2zOKXEA",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "4822",
+      "google_drive_id": "1ml0f7Wk2909ChYh3FdqBhP1ZRNwvSsrX",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "3524",
+      "google_drive_id": "1aq9j6tT1r-WK6kqCUJgEdoLEC7IpI7B3",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "2652",
+      "google_drive_id": "1HVywf0TXwUo8qBVcBXbEa2SlwR0ec4Pr",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "2379",
+      "google_drive_id": "1tBT_xQ-XWCOSxevq_0EA1Ymo5_y20z2X",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "928",
+      "google_drive_id": "1YHqJpg7IPQKVJvj7SUtyJqsBmT32KATf",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "345",
+      "google_drive_id": "1L6bN4stCoKloySkXTA01Dama3Gckzp8b",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "327",
+      "google_drive_id": "1s-TpJFXVq0weIDIkQVpc7W_17WJhSZrR",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "13800",
+      "google_drive_id": "1MrOYk4OCvVNdY5rB49TR1tzstC1mXfO-",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "5791",
+      "google_drive_id": "1BY6gH2RSp35r8U5rVy9RO3P9M0XaGUmv",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "19596",
+      "google_drive_id": "1lYtoNCdSZC2ITCyp0pRJGVWjdil-qRDB",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "5589",
+      "google_drive_id": "1MkyYJS6WD0m4CucCCvMeTjiueSHE23DP",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "660",
+      "google_drive_id": "1zymLXjS3LbW7NmcBilm3-L9WWMUn2wzM",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "339",
+      "google_drive_id": "1rss4vqGX9KgHi3vOwTCzDhrilzlEek4L",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "8387",
+      "google_drive_id": "17IrXPiDpWTYB-hG4-pJHH9vIwFqYPteQ",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "510",
+      "google_drive_id": "12pVZW7wgeMQLAysS_EKxTK8RmlaxFJmR",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "1894",
+      "google_drive_id": "1RP2gRHAUxKqPnGZMAIH7AwnWknFHepg4",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "607",
+      "google_drive_id": "1lyzDznz8w0ea8-ZOoFmei_170d5tGoa3",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "5166",
+      "google_drive_id": "1kwWhyaVRDR5h1Noj2qF--ISwdvfxhs9s",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "4908",
+      "google_drive_id": "11hlOtfIZSgxOzv5wTGL_AbL1L2Nap67n",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "273",
+      "google_drive_id": "1H6gxBJiBFI0HAmEDqXWcTlqp7Noo90SC",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "1676",
+      "google_drive_id": "1nNlQPiJ-fb6R6jBwVLbXBltI6GNA_Uz8",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "355",
+      "google_drive_id": "14diY0AchAdqdzoN7e5mZhshMCVjKb5Wl",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "2562",
+      "google_drive_id": "1JSN7bk7euDLXJpDoQz-bEm7mR8LRX0-J",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "3657",
+      "google_drive_id": "1bJVwIbZ8QsCbS088r195Nue2LKOVQ0ch",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "233",
+      "google_drive_id": "1pa_RCA2RSC_yMCEj0-moGPq2zaHZThJL",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "235",
+      "google_drive_id": "19Gk1F8y5sZ9Cgtla-qwpkDxF4t-X0xXT",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "3233",
+      "google_drive_id": "1U4cni-2mBHpW7eWZlaamP9LXjflwMR7j",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "226",
+      "google_drive_id": "1kLLZOSffg-iW9wr6TtJHHbW8iTobOnqP",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "2112",
+      "google_drive_id": "1hmXq7TlWgGDjE7BAWaPMP4EiIKGFsgag",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "5306",
+      "google_drive_id": "1qn_WM7rsu0-2y_tSK9OjCtOIy-qFLMRT",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "3110",
+      "google_drive_id": "1oXPlMfsOR6YSmjFsPwvro5OQYZZ1GA4u",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "836",
+      "google_drive_id": "1-RMkhALyV4mpfhYrSEfNqAHQTqeGy_23",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "290",
+      "google_drive_id": "1fBBRrsi3jpqHBKwMs-va1LJb1SWbpb8C",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "3234",
+      "google_drive_id": "1cMqrARMdopuHG6Dqak6dANY2gu3SNBV_",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "2910",
+      "google_drive_id": "1icRr4vEVvWOedm5friBujCr7qnkXo-RT",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "7857",
+      "google_drive_id": "1ohlrqUF1bDszWoFVT7eVumqDeAImShw_",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "3783",
+      "google_drive_id": "1BmszRwGx2m8jjeATLqqfvrQ3FnJjDIEB",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "295",
+      "google_drive_id": "19Lj9snP4_u05hMK3_jB6roYcADjRTClh",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "2644",
+      "google_drive_id": "1SRHNRN7xqBlN_GxqwBKYHjAmf8wfk642",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "1465",
+      "google_drive_id": "1C4EmXJdvBWv16vrMg0flKF1Zy6TYLDhi",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "292",
+      "google_drive_id": "13gK9OHwqLXQpuyuoyTHMT-hPXw3uJdq6",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "590",
+      "google_drive_id": "1NYaVhobN1SM8uuVLToBs7apWcWt0S0we",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "293",
+      "google_drive_id": "1v8qvjL93nCUrYAEK28uuU-f_n1NFVNoA",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "1473",
+      "google_drive_id": "1m_A1YVH06JF9UJnFAuCQ64QN-L0DlBdW",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "292",
+      "google_drive_id": "1aVsEfMWeHwVqDkBU4IrjlWWA_VxGaGAm",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "777",
+      "google_drive_id": "1ETc2vH4_cgezvijwHah3ADt2MLQfSWVj",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plot.log",
+      "size": "5281",
+      "google_drive_id": "17C9kWbABQsolorT4686_n7Hchpqi4nQP",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0319/中間柱(勇裕套圖)/中間柱(勇裕套圖)/全區圖面1100316/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A02-皇昌三峽國光段-A2基地-施工A - 送出06/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0325/全區圖面1100316/S2021A03-皇昌三峽國光段-B3基地-施工A - 送出04/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0409/A2/A2/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B1區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/A2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B4-2區/plot.log",
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2022-0427_現場放樣圖/01-放樣圖/B3區/plot.log"
+      ]
+    },
+    {
+      "name": "plt.items-view.js.下載",
+      "size": "1493",
+      "google_drive_id": "1WrxHuPJA-beWSHqOUpmggs97D-gRtfI9",
+      "dropbox_paths": [
+        "/公司資料/偉仁資料/OneDrive_20250912_files/plt.items-view.js.下載"
+      ]
+    },
+    {
+      "name": "plt.odsp-common.js.下載",
+      "size": "288647",
+      "google_drive_id": "1M54Ioak_RhxMtp8QJC75uD6u2R5Qsuaq",
+      "dropbox_paths": [
+        "/公司資料/偉仁資料/OneDrive_20250912_files/plt.odsp-common.js.下載"
+      ]
+    },
+    {
+      "name": "plt.office-ui-fabric-react.js.下載",
+      "size": "51832",
+      "google_drive_id": "1ILbd9j7siz1T96H3OwSjedhQ-OgenwoP",
+      "dropbox_paths": [
+        "/公司資料/偉仁資料/OneDrive_20250912_files/plt.office-ui-fabric-react.js.下載"
+      ]
+    },
+    {
+      "name": "QUO-001-260223-Civil 3D-N-signed.pdf",
+      "size": "237699",
+      "google_drive_id": "1zSKkSHLAmydNGlB6ceyYIt4vuybK52El",
+      "dropbox_paths": [
+        "/公司資料/報價單/QUO-001-260223-Civil 3D-N-signed.pdf"
+      ]
+    },
+    {
+      "name": "README.md",
+      "size": "218",
+      "google_drive_id": "194Swh4-llL6teYAUKu3L-IEmFAn7hlQQ",
+      "dropbox_paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.pytest_cache/README.md"
+      ]
+    },
+    {
+      "name": "README.md",
+      "size": "26",
+      "google_drive_id": "1axKrvpJGZrNx0vD37gXZU2BgQkDLZhGw",
+      "dropbox_paths": [
+        "/公司資料/BIM_專案資料(AI 訓練)/POP 文件/aec_platform/backend/.pytest_cache/README.md"
+      ]
+    },
+    {
+      "name": "README.txt",
+      "size": "40985",
+      "google_drive_id": "1Aex6y_A3G_A-xOzjlI91pqLWOJKUvJ_i",
+      "dropbox_paths": [
+        "/公司資料/c258c308c368_pcl/C258C308C368_PCL/Winx64_T11200/IT5PCL6Winx64_11200ZH-TW/Readme.txt",
+        "/公司資料/c258c308c368_pcl/C258C308C368_PCL/Winx86_T11200/IT5PCL6Winx86_11200ZH-TW/Readme.txt"
+      ]
+    },
+    {
+      "name": "README.txt",
+      "size": "2491150",
+      "google_drive_id": "17kYfiDiSIEdR8khfjmONl062hmwdpZx5",
+      "dropbox_paths": [
+        "/公司資料/c258c308c368_pcl/C258C308C368_PCL/Winx64_T11200/IT5PCL6Winx64_11200ZH-TW/Readme.txt",
+        "/公司資料/c258c308c368_pcl/C258C308C368_PCL/Winx86_T11200/IT5PCL6Winx86_11200ZH-TW/Readme.txt"
+      ]
+    },
+    {
+      "name": "readme.txt",
+      "size": "554",
+      "google_drive_id": "1U3legE477_z17DdiGLDwB3cX7cud4tPi",
+      "dropbox_paths": [
+        "/公司資料/c258c308c368_pcl/C258C308C368_PCL/Winx64_T11200/IT5PCL6Winx64_11200ZH-TW/Readme.txt",
+        "/公司資料/c258c308c368_pcl/C258C308C368_PCL/Winx86_T11200/IT5PCL6Winx86_11200ZH-TW/Readme.txt"
+      ]
+    },
+    {
+      "name": "readme.txt",
+      "size": "8287",
+      "google_drive_id": "1aEONI_JFoifrd6gA_7ZYaTfMtpeiSpsd",
+      "dropbox_paths": [
+        "/公司資料/c258c308c368_pcl/C258C308C368_PCL/Winx64_T11200/IT5PCL6Winx64_11200ZH-TW/Readme.txt",
+        "/公司資料/c258c308c368_pcl/C258C308C368_PCL/Winx86_T11200/IT5PCL6Winx86_11200ZH-TW/Readme.txt"
+      ]
+    },
+    {
+      "name": "Readme.txt",
+      "size": "1159",
+      "google_drive_id": "1fCtS3ivJYG89Zpa7l31Nkp35Ttay0oHn",
+      "dropbox_paths": [
+        "/公司資料/c258c308c368_pcl/C258C308C368_PCL/Winx64_T11200/IT5PCL6Winx64_11200ZH-TW/Readme.txt",
+        "/公司資料/c258c308c368_pcl/C258C308C368_PCL/Winx86_T11200/IT5PCL6Winx86_11200ZH-TW/Readme.txt"
+      ]
+    },
+    {
+      "name": "Readme.txt",
+      "size": "1058",
+      "google_drive_id": "1TORkKYw2LdEVGKlS9-uzbATKMNODn4iq",
+      "dropbox_paths": [
+        "/公司資料/c258c308c368_pcl/C258C308C368_PCL/Winx64_T11200/IT5PCL6Winx64_11200ZH-TW/Readme.txt",
+        "/公司資料/c258c308c368_pcl/C258C308C368_PCL/Winx86_T11200/IT5PCL6Winx86_11200ZH-TW/Readme.txt"
+      ]
+    },
+    {
+      "name": "readme.txt",
+      "size": "5339",
+      "google_drive_id": "14066vpPqX6oJihrg1cvRWRfNonoqEiRv",
+      "dropbox_paths": [
+        "/公司資料/c258c308c368_pcl/C258C308C368_PCL/Winx64_T11200/IT5PCL6Winx64_11200ZH-TW/Readme.txt",
+        "/公司資料/c258c308c368_pcl/C258C308C368_PCL/Winx86_T11200/IT5PCL6Winx86_11200ZH-TW/Readme.txt"
+      ]
+    },
+    {
+      "name": "readme.txt",
+      "size": "383",
+      "google_drive_id": "1Bqx3sYL4jRX21c4JfHA2pLQOkwVop6TD",
+      "dropbox_paths": [
+        "/公司資料/c258c308c368_pcl/C258C308C368_PCL/Winx64_T11200/IT5PCL6Winx64_11200ZH-TW/Readme.txt",
+        "/公司資料/c258c308c368_pcl/C258C308C368_PCL/Winx86_T11200/IT5PCL6Winx86_11200ZH-TW/Readme.txt"
+      ]
+    },
+    {
+      "name": "readme.txt",
+      "size": "383",
+      "google_drive_id": "1uZUpJvbHz0jeskf5Z2mppvnpFQbR_FNc",
+      "dropbox_paths": [
+        "/公司資料/c258c308c368_pcl/C258C308C368_PCL/Winx64_T11200/IT5PCL6Winx64_11200ZH-TW/Readme.txt",
+        "/公司資料/c258c308c368_pcl/C258C308C368_PCL/Winx86_T11200/IT5PCL6Winx86_11200ZH-TW/Readme.txt"
+      ]
+    },
+    {
+      "name": "settings.xml",
+      "size": "2605",
+      "google_drive_id": "1gopoFmnyOwqg4OKBDL57PAjx9HKbIB0x",
+      "dropbox_paths": [
+        "/公司資料/Autodesk 2023-/Reformatted_FY24_GCR_ASP_Program_Guide-GPT V1/word/settings.xml"
+      ]
+    },
+    {
+      "name": "TSMC11312-11410薪資請款明細.xlsx",
+      "size": "57626",
+      "google_drive_id": "1F3KScnffOooZTlJKiHZIBENQpmiUuaBE",
+      "dropbox_paths": [
+        "/公司資料/專案相關資料/台積電人力外派/202412-202510薪資申請/TSMC11312-11410薪資請款明細.xlsx"
+      ]
+    },
+    {
+      "name": "協勤資訊_BIM應用技術服務_20240530.pptx",
+      "size": "29159928",
+      "google_drive_id": "1pwEXK9idEtoqSXl1PV3D0iHv4G1Bx3IJ",
+      "dropbox_paths": [
+        "/公司資料/專案相關資料/協勤資訊_BIM應用技術服務_20240530.pptx"
+      ]
+    },
+    {
+      "name": "協勤資訊有限公司-Form-security.docx",
+      "size": "72558",
+      "google_drive_id": "1FFGqrIbSLQxlEbdChdOX0FpueHvwuBSN",
+      "dropbox_paths": [
+        "/公司資料/DraftSight/2024共同契約/協勤資訊有限公司-Form-security.docx"
+      ]
+    },
+    {
+      "name": "協勤資訊有限公司-Form-software.docx",
+      "size": "72196",
+      "google_drive_id": "1mDeU82W2WW4qt7UYoz6TXeGDYWPXKreF",
+      "dropbox_paths": [
+        "/公司資料/DraftSight/協勤資訊有限公司-Form-software.docx",
+        "/公司資料/DraftSight/2024共同契約/協勤資訊有限公司-Form-software.docx"
+      ]
+    },
+    {
+      "name": "台灣BIM技術職種職等職級職稱薪資對照參考表（含專案經驗要求）.docx",
+      "size": "151961",
+      "google_drive_id": "1QJK7lYOFFckCz8RIViyd6fTDUqKVPBNL",
+      "dropbox_paths": [
+        "/公司資料/協勤部門管理資料/06 BIM算量及雲端事業部/台灣BIM技術職種職等職級職稱薪資對照參考表（含專案經驗要求）.docx"
+      ]
+    },
+    {
+      "name": "大象雲等功能規範-0203.docx",
+      "size": "32061",
+      "google_drive_id": "12fMrpw9TRo21TDsdy-pFAEM4UYXBayi8",
+      "dropbox_paths": [
+        "/公司資料/大象雲/大象雲等功能規範-0203.docx"
+      ]
+    },
+    {
+      "name": "專案部門轉型2025.pptx",
+      "size": "7659895",
+      "google_drive_id": "1Z-NcqjCsLNUBGrgSKOJUJi5fvhBiyRUH",
+      "dropbox_paths": [
+        "/公司資料/協勤部門管理資料/06 BIM算量及雲端事業部/專案部門轉型2025.pptx"
+      ]
+    },
+    {
+      "name": "專案部門轉型2025.pptx",
+      "size": "8799539",
+      "google_drive_id": "1rogkjbRqtRQNysmiSJDd_hh3hn3D5Zhz",
+      "dropbox_paths": [
+        "/公司資料/協勤部門管理資料/06 BIM算量及雲端事業部/專案部門轉型2025.pptx"
+      ]
+    },
+    {
+      "name": "工程估算部-工作說明書(公佈版)_2016-0808.docx",
+      "size": "29850",
+      "google_drive_id": "1joMrqBnysulhNkFetD1koPZZB8PETlhs",
+      "dropbox_paths": [
+        "/公司資料/協勤部門管理資料/06 BIM算量及雲端事業部/工程估算部-工作說明書(公佈版)_2016-0808.docx"
+      ]
+    },
+    {
+      "name": "建築資訊模型-報價單250415.xls",
+      "size": "43008",
+      "google_drive_id": "18wIvLqdLCpmaitDnz95GaJ2bAXpg6dWi",
+      "dropbox_paths": [
+        "/公司資料/偉仁資料/99-詢價區/皇昌營造/建築資訊模型-報價單250415.xls"
+      ]
+    },
+    {
+      "name": "樓板標籤(1F見上).rfa",
+      "size": "360448",
+      "google_drive_id": "1bgFR5pYotNgS6dAj3zEAQaavqzK1Jvg5",
+      "dropbox_paths": [
+        "/公司資料/專案輸出範本/02.施工階段 1/02.施工階段/2021-0412軀體圖範本/樓板標籤(1F見上).rfa"
+      ]
+    },
+    {
+      "name": "水土保持工區勞工安全科技化管理之建置先期研究_期出工作執行計畫書_全.docx",
+      "size": "14256587",
+      "google_drive_id": "1FAwg2VPffD6EwBDPvxW2VWAX0hzO0Zin",
+      "dropbox_paths": [
+        "/公司資料/專案相關資料/水保資料/水土保持工區勞工安全科技化管理之建置先期研究_期出工作執行計畫書_全.docx"
+      ]
+    },
+    {
+      "name": "空白訓練機構課程申請表EXCELv1.xlsx",
+      "size": "19180",
+      "google_drive_id": "1NLyOjjBXa_8L4d0-xw4oAoAbWmhwcIRj",
+      "dropbox_paths": [
+        "/公司資料/協勤部門管理資料/員工在職訓練/空白訓練機構課程申請表EXCELv1.xlsx"
+      ]
+    },
+    {
+      "name": "繪圖包 25套網路版發票開立時間.docx",
+      "size": "66810",
+      "google_drive_id": "1uhCR42YtfgDuKVrIOKDZCLJ8VbOiSmia",
+      "dropbox_paths": [
+        "/公司資料/專案相關資料/南亞科技/繪圖包 25套網路版發票開立時間.docx"
+      ]
+    },
+    {
+      "name": "聯曜-訓練機構課程申請表_(聯曜)30人專案.xlsx",
+      "size": "19895",
+      "google_drive_id": "1N1XvygCy_URv0LtxOiZnBzuo-szeS0uT",
+      "dropbox_paths": [
+        "/公司資料/協勤部門管理資料/員工在職訓練/聯曜-訓練機構課程申請表_(聯曜)30人專案.xlsx"
+      ]
+    },
+    {
+      "name": "遠東國際紀念館新建工程專案進度表.xlsx",
+      "size": "47220",
+      "google_drive_id": "1uHd4A8_DB1wj4Vm88qD-MDA5_T6ZknVm",
+      "dropbox_paths": [
+        "/公司資料/專案相關資料/遠東國際紀念館新建工程專案進度表.xlsx"
+      ]
+    },
+    {
+      "name": "遠東國際紀念館新建工程專案進度表.xlsx",
+      "size": "47220",
+      "google_drive_id": "1c9vA6D8N6S_yFTocJg-EIYuwyvhIk9NX",
+      "dropbox_paths": [
+        "/公司資料/專案相關資料/遠東國際紀念館新建工程專案進度表.xlsx"
+      ]
+    },
+    {
+      "name": "限制陸資、大陸地區來源之標的供應商問卷調查表_GEP-03-4-31-A_Modify8_協勤.pdf",
+      "size": "266614",
+      "google_drive_id": "1zey6g37vO99ibYJ3J5LE1LmY93jI_Poj",
+      "dropbox_paths": [
+        "/公司資料/專案相關資料/神通電資/限制陸資、大陸地區來源之標的供應商問卷調查表_GEP-03-4-31-A_Modify8_協勤.pdf"
+      ]
+    }
+  ]
+}

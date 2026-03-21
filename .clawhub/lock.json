@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "skills": {
+    "ontology": {
+      "version": "1.0.4",
+      "installedAt": 1774079582680
+    },
+    "obsidian": {
+      "version": "1.0.0",
+      "installedAt": 1774079587151
+    },
+    "api-gateway-1-0-46": {
+      "version": "1.0.0",
+      "installedAt": 1774079649640
+    },
+    "xiucheng-self-improving-agent": {
+      "version": "1.0.0",
+      "installedAt": 1774079701833
+    }
+  }
+}

@@ -16,6 +16,10 @@
     "xiucheng-self-improving-agent": {
       "version": "1.0.0",
       "installedAt": 1774079701833
+    },
+    "stock-analysis": {
+      "version": "6.2.0",
+      "installedAt": 1774080369791
     }
   }
 }

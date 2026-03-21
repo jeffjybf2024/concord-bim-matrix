@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Dropbox Company Structure Index",
+  "type": "object",
+  "properties": {
+    "root": { "type": "string" },
+    "generated_at": { "type": "string" },
+    "folder_count": { "type": "integer" },
+    "file_count": { "type": "integer" },
+    "top_level_structure": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "name": { "type": "string" },
+          "items": { "type": "integer" }
+        },
+        "required": ["name", "items"]
+      }
+    }
+  },
+  "required": ["root", "generated_at"]
+}

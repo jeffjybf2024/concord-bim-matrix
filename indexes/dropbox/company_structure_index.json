@@ -1,0 +1,332 @@
+{
+  "root": "/公司資料",
+  "generated_at": "2026-03-21T18:59:41.747296+08:00",
+  "folder_count": 1528,
+  "file_count": 14692,
+  "top_level_structure": [
+    {
+      "name": "BIM_專案資料(AI 訓練)",
+      "items": 6283
+    },
+    {
+      "name": "Surface Book 圖片資料",
+      "items": 2271
+    },
+    {
+      "name": "協勤部門管理資料",
+      "items": 2243
+    },
+    {
+      "name": "專案相關資料",
+      "items": 1443
+    },
+    {
+      "name": "偉仁資料",
+      "items": 1037
+    },
+    {
+      "name": "承天雲台",
+      "items": 527
+    },
+    {
+      "name": "專案輸出範本",
+      "items": 451
+    },
+    {
+      "name": "CUBICOST相關",
+      "items": 226
+    },
+    {
+      "name": "DraftSight",
+      "items": 215
+    },
+    {
+      "name": "舊資料檔案",
+      "items": 186
+    },
+    {
+      "name": "業績計算相關",
+      "items": 159
+    },
+    {
+      "name": "報價單",
+      "items": 158
+    },
+    {
+      "name": "大象雲",
+      "items": 93
+    },
+    {
+      "name": "簡報資料整理",
+      "items": 90
+    },
+    {
+      "name": "投標案資料",
+      "items": 70
+    },
+    {
+      "name": "雲台相關",
+      "items": 69
+    },
+    {
+      "name": "c258c308c368_pcl",
+      "items": 68
+    },
+    {
+      "name": "Autodesk 2023-",
+      "items": 67
+    },
+    {
+      "name": "BIM專案管理相關文件_20170803",
+      "items": 66
+    },
+    {
+      "name": "bim專案管理相關文件_20170803",
+      "items": 61
+    },
+    {
+      "name": "系統研發部",
+      "items": 58
+    },
+    {
+      "name": "交通大學研究計畫彙整",
+      "items": 51
+    },
+    {
+      "name": "公司變更相關資料20181029",
+      "items": 38
+    },
+    {
+      "name": "人力招募",
+      "items": 32
+    },
+    {
+      "name": "ADSK",
+      "items": 25
+    },
+    {
+      "name": "工程估價協會",
+      "items": 17
+    },
+    {
+      "name": "BIM專案製作流程改造",
+      "items": 17
+    },
+    {
+      "name": "教育訓練",
+      "items": 12
+    },
+    {
+      "name": "服務建議書",
+      "items": 12
+    },
+    {
+      "name": "憑證資料",
+      "items": 12
+    },
+    {
+      "name": "電子發票",
+      "items": 9
+    },
+    {
+      "name": "Structionsite",
+      "items": 7
+    },
+    {
+      "name": "單據模板",
+      "items": 7
+    },
+    {
+      "name": "競爭廠商資料",
+      "items": 6
+    },
+    {
+      "name": "廠商資料彙整",
+      "items": 6
+    },
+    {
+      "name": "CHC增益集",
+      "items": 6
+    },
+    {
+      "name": "業務人員訓練",
+      "items": 6
+    },
+    {
+      "name": "CAD READER",
+      "items": 5
+    },
+    {
+      "name": "BIM課程相關",
+      "items": 5
+    },
+    {
+      "name": "PCCES標單服務",
+      "items": 4
+    },
+    {
+      "name": "艾伯特",
+      "items": 4
+    },
+    {
+      "name": "用戶軟體版權書",
+      "items": 3
+    },
+    {
+      "name": "專案合約",
+      "items": 3
+    },
+    {
+      "name": "AI生成資料",
+      "items": 3
+    },
+    {
+      "name": "林侯仲",
+      "items": 3
+    },
+    {
+      "name": "Optilic",
+      "items": 3
+    },
+    {
+      "name": "業務部潛在客戶名單",
+      "items": 2
+    },
+    {
+      "name": "鉤逸科技",
+      "items": 2
+    },
+    {
+      "name": "Vtiger 使用相關",
+      "items": 2
+    },
+    {
+      "name": "銀行往來",
+      "items": 2
+    }
+  ],
+  "largest_folders": [
+    {
+      "path": "/公司資料",
+      "size_bytes": 98729831266,
+      "size_gb": 91.95,
+      "files": 14692
+    },
+    {
+      "path": "/公司資料/專案相關資料",
+      "size_bytes": 32187307086,
+      "size_gb": 29.98,
+      "files": 1343
+    },
+    {
+      "path": "/公司資料/專案相關資料/未得標項目",
+      "size_bytes": 18406612572,
+      "size_gb": 17.14,
+      "files": 173
+    },
+    {
+      "path": "/公司資料/專案相關資料/未得標項目/長庚桃園院區FM",
+      "size_bytes": 13434543366,
+      "size_gb": 12.51,
+      "files": 26
+    },
+    {
+      "path": "/公司資料/承天雲台",
+      "size_bytes": 10122745643,
+      "size_gb": 9.43,
+      "files": 497
+    },
+    {
+      "path": "/公司資料/承天雲台/業務專案相關",
+      "size_bytes": 7882150260,
+      "size_gb": 7.34,
+      "files": 9
+    },
+    {
+      "path": "/公司資料/承天雲台/業務專案相關/110長庚專案",
+      "size_bytes": 7881794122,
+      "size_gb": 7.34,
+      "files": 6
+    },
+    {
+      "path": "/公司資料/CUBICOST相關",
+      "size_bytes": 7473350629,
+      "size_gb": 6.96,
+      "files": 210
+    },
+    {
+      "path": "/公司資料/簡報資料整理",
+      "size_bytes": 7147995490,
+      "size_gb": 6.66,
+      "files": 79
+    },
+    {
+      "path": "/公司資料/BIM_專案資料(AI 訓練)",
+      "size_bytes": 6881748034,
+      "size_gb": 6.41,
+      "files": 5577
+    },
+    {
+      "path": "/公司資料/協勤部門管理資料",
+      "size_bytes": 6726901911,
+      "size_gb": 6.26,
+      "files": 1990
+    },
+    {
+      "path": "/公司資料/BIM_專案資料(AI 訓練)/皇昌營造_廣慈博愛院",
+      "size_bytes": 6415859202,
+      "size_gb": 5.98,
+      "files": 38
+    },
+    {
+      "path": "/公司資料/協勤部門管理資料/離職員工交接資料",
+      "size_bytes": 6305754977,
+      "size_gb": 5.87,
+      "files": 1622
+    },
+    {
+      "path": "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料",
+      "size_bytes": 6268821579,
+      "size_gb": 5.84,
+      "files": 1618
+    },
+    {
+      "path": "/公司資料/BIM_專案資料(AI 訓練)/皇昌營造_廣慈博愛院/第二階段(建築,結構,機電,景觀)細部設計報告書及圖冊核定版)",
+      "size_bytes": 5732432831,
+      "size_gb": 5.34,
+      "files": 15
+    },
+    {
+      "path": "/公司資料/偉仁資料",
+      "size_bytes": 5655077688,
+      "size_gb": 5.27,
+      "files": 886
+    },
+    {
+      "path": "/公司資料/Surface Book 圖片資料",
+      "size_bytes": 5005612665,
+      "size_gb": 4.66,
+      "files": 2253
+    },
+    {
+      "path": "/公司資料/協勤部門管理資料/離職員工交接資料/Rover交接資料/備標個案",
+      "size_bytes": 4776105362,
+      "size_gb": 4.45,
+      "files": 1170
+    },
+    {
+      "path": "/公司資料/專案相關資料/新竹海淡",
+      "size_bytes": 4458629663,
+      "size_gb": 4.15,
+      "files": 18
+    },
+    {
+      "path": "/公司資料/專案相關資料/新竹海淡/20251009發包資料",
+      "size_bytes": 4431608611,
+      "size_gb": 4.13,
+      "files": 16
+    }
+  ],
+  "messy_folder_names_count": 50,
+  "duplicate_candidates_count": 50
+}

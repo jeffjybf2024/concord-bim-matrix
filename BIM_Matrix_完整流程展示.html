@@ -1,0 +1,402 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BIM Matrix — 完整流程展示</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    background: #0f172a;
+    color: #e2e8f0;
+    line-height: 1.6;
+    padding: 20px;
+  }
+  .container { max-width: 1100px; margin: 0 auto; }
+  h1 { color: #38bdf8; text-align: center; margin-bottom: 10px; font-size: 2em; }
+  .subtitle { text-align: center; color: #94a3b8; margin-bottom: 30px; }
+
+  .layer {
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 20px;
+    position: relative;
+  }
+  .layer-mac { background: linear-gradient(135deg, #1e3a5f 0%, #0f172a 100%); border: 1px solid #38bdf8; }
+  .layer-network { background: #1e293b; border: 1px dashed #64748b; text-align: center; padding: 10px; }
+  .layer-i9 { background: linear-gradient(135deg, #3f1e5f 0%, #1a0f2e 100%); border: 1px solid #a855f7; }
+  .layer-gdrive { background: linear-gradient(135deg, #1e3f2a 0%, #0f2a1a 100%); border: 1px solid #22c55e; }
+
+  .layer-title {
+    font-size: 1.2em;
+    font-weight: bold;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .layer-mac .layer-title { color: #38bdf8; }
+  .layer-i9 .layer-title { color: #a855f7; }
+  .layer-gdrive .layer-title { color: #22c55e; }
+
+  .flow-box {
+    background: rgba(255,255,255,0.05);
+    border-radius: 8px;
+    padding: 15px;
+    margin: 10px 0;
+    border-left: 4px solid #38bdf8;
+  }
+  .flow-box.i9 { border-left-color: #a855f7; }
+  .flow-box.gd { border-left-color: #22c55e; }
+
+  .status {
+    display: inline-block;
+    padding: 2px 10px;
+    border-radius: 12px;
+    font-size: 0.85em;
+    font-weight: bold;
+  }
+  .status.ok { background: #166534; color: #4ade80; }
+  .status.warn { background: #713f12; color: #facc15; }
+  .status.err { background: #7f1d1d; color: #fca5a5; }
+  .status.work { background: #1e3a5f; color: #38bdf8; }
+
+  .arrow {
+    text-align: center;
+    font-size: 2em;
+    color: #64748b;
+    margin: 5px 0;
+  }
+
+  .step {
+    display: flex;
+    align-items: flex-start;
+    gap: 15px;
+    margin: 10px 0;
+    padding: 12px;
+    background: rgba(0,0,0,0.2);
+    border-radius: 8px;
+  }
+  .step-num {
+    background: #38bdf8;
+    color: #0f172a;
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    flex-shrink: 0;
+  }
+  .step.i9 .step-num { background: #a855f7; }
+  .step.gd .step-num { background: #22c55e; }
+
+  .summary {
+    background: #1e293b;
+    border-radius: 12px;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  .summary h2 { color: #fbbf24; margin-bottom: 15px; }
+
+  table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+  th, td { padding: 10px; text-align: left; border-bottom: 1px solid #334155; }
+  th { color: #94a3b8; font-weight: 600; }
+
+  .highlight { color: #fbbf24; font-weight: bold; }
+  .code { font-family: monospace; background: rgba(0,0,0,0.3); padding: 2px 6px; border-radius: 4px; font-size: 0.9em; }
+
+  .mermaid { text-align: center; margin: 20px 0; }
+
+  .footer {
+    text-align: center;
+    color: #64748b;
+    margin-top: 30px;
+    font-size: 0.9em;
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+<h1>🔷 BIM Matrix — 完整自動化流程</h1>
+<p class="subtitle">Navisworks 碰撞檢測 AI 閉環修正系統 | Concord AI Agency</p>
+
+<!-- 架構總覽 -->
+<div class="layer layer-mac">
+  <div class="layer-title">🖥️ 決策層 — Mac Mini (AI Agent)</div>
+
+  <div class="step">
+    <div class="step-num">1</div>
+    <div>
+      <strong>客戶需求輸入</strong><br>
+      <span class="code">「檢查桃園平鎮專案 MEP vs 結構碰撞」</span><br>
+      <span class="status ok">✅ 正常</span>
+    </div>
+  </div>
+
+  <div class="step">
+    <div class="step-num">2</div>
+    <div>
+      <strong>AI 解析需求 → BIM Use 匹配</strong><br>
+      MCP Server <span class="code">localhost:18888/api/bim-use/</span> 查詢 51 項 BIM Uses<br>
+      自動匹配：1D — Design Coordination & Clash Detection<br>
+      <span class="status ok">✅ 正常</span>
+    </div>
+  </div>
+
+  <div class="step">
+    <div class="step-num">3</div>
+    <div>
+      <strong>AI 策略選擇 → 生成執行指令</strong><br>
+      選擇模型檔、碰撞規則、輸出格式 (BCF/XML)<br>
+      組裝 API 呼叫參數<br>
+      <span class="status ok">✅ 正常</span>
+    </div>
+  </div>
+
+  <div class="flow-box">
+    <strong>執行指令範例：</strong><br>
+    <span class="code">
+    POST http://192.168.1.34:5000/clash/run<br>
+    { "nwd_path": "C:\\BIM_Matrix\\workspace\\clash_inputs\\平鎮CO-ALL-20240729.nwd" }
+    </span>
+  </div>
+</div>
+
+<div class="arrow">↓ HTTP/REST ↓</div>
+
+<div class="layer layer-network">
+  <strong>🌐 內網傳輸</strong> — Mac Mini A/B (192.168.1.x) ↔ i9 Windows (192.168.1.34)
+</div>
+
+<div class="arrow">↓ HTTP/REST ↓</div>
+
+<div class="layer layer-i9">
+  <div class="layer-title">⚙️ 執行層 — i9 Windows (Revit/Navisworks)</div>
+
+  <div class="step i9">
+    <div class="step-num">1</div>
+    <div>
+      <strong>接收指令 → 載入 NWD/NWC 模型</strong><br>
+      Flask API Server <span class="code">port 5000</span><br>
+      模型來源：G:\我的雲端硬碟\桃園平鎮\NWC (Google Drive Desktop Sync)<br>
+      <span class="status ok">✅ 正常</span> — 已複製 25 個模型檔到 <span class="code">C:\BIM_Matrix\workspace\clash_inputs\</span>
+    </div>
+  </div>
+
+  <div class="step i9">
+    <div class="step-num">2</div>
+    <div>
+      <strong>Navisworks 碰撞檢測執行</strong><br>
+      執行檔：<span class="code">C:\Program Files\Autodesk\Navisworks Manage 2026\Roamer.exe</span><br>
+      檢測類型：硬碰撞 (Hard) + 軟碰撞 (Soft) + 淨距 (Clearance)<br>
+      <span class="status ok">✅ 正常</span> — API <span class="code">/clash/run</span> 已通，返回 clash_count
+    </div>
+  </div>
+
+  <div class="step i9">
+    <div class="step-num">3</div>
+    <div>
+      <strong>輸出碰撞報告 (XML/BCF)</strong><br>
+      輸出格式：Navisworks XML → 轉換 BCF 2.0<br>
+      欄位：碰撞 ID、元素 A/B、位置、嚴重度、責任專業<br>
+      <span class="status work">🔄 開發中</span> — XML 解析器就緒，待產出 BCF
+    </div>
+  </div>
+
+  <div class="flow-box i9">
+    <strong>已就緒的模型庫 (桃園平鎮)：</strong><br>
+    • 平鎮-MEP_250627.nwc (113 MB) — MEP 全模型<br>
+    • 平鎮-CO-IN-AO.nwc (121 MB) — 結構模型<br>
+    • 平鎮 CO-ALL-20240729.nwd (86.4 MB) — 合併模型<br>
+    • 平鎮 CO-AR-BFL_20240708.nwc (147 KB) — 建築小樣<br>
+    + 21 個歷史版本檔案
+  </div>
+</div>
+
+<div class="arrow">↑ XML/JSON ↑</div>
+
+<div class="layer layer-mac">
+  <div class="layer-title">🧠 AI 分析層 — Mac Mini</div>
+
+  <div class="step">
+    <div class="step-num">4</div>
+    <div>
+      <strong>碰撞報告 AI 分析</strong><br>
+      LLM 讀取 XML → 自動分級 (Critical/Major/Minor/Resolved)<br>
+      規則過濾：套管/預留孔自動排除<br>
+      責任歸屬：結構/建築/機電自動判定<br>
+      <span class="status ok">✅ 就緒</span> — Clash Parser + AI Engine 已開發
+    </div>
+  </div>
+
+  <div class="step">
+    <div class="step-num">5</div>
+    <div>
+      <strong>生成修正方案 → Revit API 指令</strong><br>
+      AI 建議：「風管降板 50mm」/「牆體增設鋼套管」<br>
+      轉換為 Revit API 可執行參數<br>
+      <span class="status work">🔄 開發中</span>
+    </div>
+  </div>
+</div>
+
+<div class="arrow">↓ HTTP/REST ↓</div>
+
+<div class="layer layer-i9">
+  <div class="layer-title">🔧 修正層 — i9 Windows (Revit)</div>
+
+  <div class="step i9">
+    <div class="step-num">4</div>
+    <div>
+      <strong>執行 Revit 修正</strong><br>
+      API：<span class="code">POST /revit/modify</span><br>
+      執行檔：<span class="code">C:\Program Files\Autodesk\Revit 2026\Revit.exe</span><br>
+      <span class="status ok">✅ 已安裝</span> — Revit 2023 + 2026 雙版本
+    </div>
+  </div>
+
+  <div class="step i9">
+    <div class="step-num">5</div>
+    <div>
+      <strong>重新驗證 → 閉環收斂</strong><br>
+      修正後模型再次跑碰撞檢測<br>
+      比對修正前後差異<br>
+      記錄修正歷史 (Correction Memory)<br>
+      <span class="status work">🔄 待串接</span>
+    </div>
+  </div>
+</div>
+
+<div class="arrow">↑ JSON ↑</div>
+
+<div class="layer layer-gdrive">
+  <div class="layer-title">☁️ 交付層 — Google Drive / BIM PMIS</div>
+
+  <div class="step gd">
+    <div class="step-num">6</div>
+    <div>
+      <strong>成果上傳與同步</strong><br>
+      • 碰撞報告 XML → GD BIM PMIS 資料夾<br>
+      • BCF 2.0 → BIMcollab / Revizto 匯入<br>
+      • 修正歷史 → 知識庫累積<br>
+      • AI 分析報告 → 客戶交付<br>
+      <span class="status warn">⚠️ gog token 待修復</span> — 暫用手動上傳
+    </div>
+  </div>
+</div>
+
+<!-- 狀態總覽 -->
+<div class="summary">
+  <h2>📊 系統狀態總覽</h2>
+  <table>
+    <tr>
+      <th>組件</th>
+      <th>狀態</th>
+      <th>備註</th>
+    </tr>
+    <tr>
+      <td>Mac Mini A (Jerry)</td>
+      <td><span class="status ok">正常</span></td>
+      <td>HTTP Server 8888 就緒</td>
+    </tr>
+    <tr>
+      <td>Mac Mini B (Jacky)</td>
+      <td><span class="status ok">正常</span></td>
+      <td>本機運作中</td>
+    </tr>
+    <tr>
+      <td>i9 Windows API Server</td>
+      <td><span class="status ok">正常</span></td>
+      <td><span class="code">192.168.1.34:5000</span> /health ✅ /clash/run ✅</td>
+    </tr>
+    <tr>
+      <td>Navisworks Manage 2026</td>
+      <td><span class="status ok">正常</span></td>
+      <td>已安裝，可執行碰撞檢測</td>
+    </tr>
+    <tr>
+      <td>Revit 2023/2026</td>
+      <td><span class="status ok">正常</span></td>
+      <td>雙版本就緒</td>
+    </tr>
+    <tr>
+      <td>i9 SSH 遠端</td>
+      <td><span class="status err">異常</span></td>
+      <td>OpenSSH Server 安裝中，防火牆規則待確認</td>
+    </tr>
+    <tr>
+      <td>Google Drive 上傳</td>
+      <td><span class="status warn">警告</span></td>
+      <td>gog token 需重新授權，GD Desktop Sync (G:) 正常</td>
+    </tr>
+    <tr>
+      <td>MCP BIM Use Server</td>
+      <td><span class="status ok">正常</span></td>
+      <td>Port 18888，51 項資料庫可查</td>
+    </tr>
+    <tr>
+      <td>碰撞報告 AI 分析</td>
+      <td><span class="status work">開發中</span></td>
+      <td>Clash Parser + LLM Prompt 已開發，待串接 i9 輸出</td>
+    </tr>
+    <tr>
+      <td>Revit 自動修正</td>
+      <td><span class="status work">開發中</span></td>
+      <td>/revit/modify 端點規劃完成，待實作</td>
+    </tr>
+    <tr>
+      <td>閉環修正記憶</td>
+      <td><span class="status work">開發中</span></td>
+      <td>correction_log 結構設計完成</td>
+    </tr>
+  </table>
+</div>
+
+<!-- 閉環修正流程 -->
+<div class="summary">
+  <h2>🔄 閉環修正流程 (Closed-Loop Correction)</h2>
+  <div class="step">
+    <div class="step-num" style="background:#f59e0b;">①</div>
+    <div><strong>初始碰撞檢測</strong> → 產出 Clash Report (XML)</div>
+  </div>
+  <div style="text-align:center; color:#64748b; margin:5px 0;">↓</div>
+  <div class="step">
+    <div class="step-num" style="background:#f59e0b;">②</div>
+    <div><strong>AI 分析分級</strong> → 排除誤報 / 判定嚴重度 / 指派責任</div>
+  </div>
+  <div style="text-align:center; color:#64748b; margin:5px 0;">↓</div>
+  <div class="step">
+    <div class="step-num" style="background:#f59e0b;">③</div>
+    <div><strong>AI 生成修正方案</strong> → 建議管線偏移/牆洞/套管等</div>
+  </div>
+  <div style="text-align:center; color:#64748b; margin:5px 0;">↓</div>
+  <div class="step">
+    <div class="step-num" style="background:#f59e0b;">④</div>
+    <div><strong>Revit API 執行修正</strong> → 自動修改模型參數</div>
+  </div>
+  <div style="text-align:center; color:#64748b; margin:5px 0;">↓</div>
+  <div class="step">
+    <div class="step-num" style="background:#f59e0b;">⑤</div>
+    <div><strong>重新碰撞檢測</strong> → 驗證修正成效</div>
+  </div>
+  <div style="text-align:center; color:#64748b; margin:5px 0;">↓</div>
+  <div class="step">
+    <div class="step-num" style="background:#f59e0b;">⑥</div>
+    <div><strong>記錄修正歷史</strong> → 累積至 Correction Memory，供未來預測</div>
+  </div>
+  <div style="text-align:center; color:#64748b; margin:5px 0;">↓</div>
+  <div style="text-align:center; color:#fbbf24; font-weight:bold;">迭代直到收斂 (clash_count = 0 或達上限)</div>
+</div>
+
+<div class="footer">
+  Concord AI Agency | BIM Matrix 專案 | 產出時間：2026-06-16<br>
+  決策層：Mac Mini A/B (OpenClaw/Hermes) | 執行層：i9 Windows (Revit/Navisworks API)
+</div>
+
+</div>
+</body>
+</html>
